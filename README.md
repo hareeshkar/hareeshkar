@@ -1,429 +1,470 @@
-# Ravi Hareeshkar's GitHub Profile
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,3,4,6&text=RAVI%20HAREESHKAR&fontSize=80&fontColor=00f2ff&fontAlign=50&fontAlignY=35&animation=twinkling&stroke=00f2ff&strokeWidth=3&desc=FULL-STACK%20ARCHITECT%20•%20AI%20ENGINEER%20•%20SYSTEMS%20DESIGNER&descSize=20&descAlignY=55)
+<!-- Ravi Hareeshkar — Full-Stack Systems Architect -->
+<!-- Version: 3.0.0 | Last Updated: December 2025 -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=⚡+INITIALIZING+NEURAL+NETWORK...;⚡+LOADING_MODULE%3A+AI_POWERED_SYSTEMS;⚡+LOADING_MODULE%3A+SCALABLE_ARCHITECTURE;⚡+STACK%3A+MERN+%7C+.NET+CORE+%7C+SwiftUI+%7C+Android;⚡+STATUS%3A+READY_FOR_DEPLOYMENT+%E2%9C%93)
+<div align="center">
 
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,3,4,6&text=RAVI%20HAREESHKAR&fontSize=70&fontColor=00f2ff&fontAlign=50&fontAlignY=35&animation=twinkling&stroke=00f2ff&strokeWidth=3&desc=FULL-STACK%20ARCHITECT%20•%20AI%20ENGINEER%20•%20SYSTEMS%20DESIGNER&descSize=18&descAlignY=55" alt="Ravi Hareeshkar Header" width="100%" style="max-width: 1200px; border-radius: 12px;" />
 
-## Agent Profile [RH-2027]
+  <!-- Live Status Indicator -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=800&color=00F2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=%E2%9A%A1%20SYSTEM_STATUS%3A%20OPERATIONAL%20%E2%9C%93;%E2%9A%A1%20NEURAL_NETWORK%3A%20ONLINE;%E2%9A%A1%20DEPLOYMENT_TARGET%3A%20PRODUCTION" alt="System Status" />
 
-| Profile Image & Badges | Bio & Vitals |
-|------------------------|--------------|
-| ![Profile GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)<br/><br/>![Security Clearance](https://img.shields.io/badge/SECURITY_CLEARANCE-GRANTED-00f2ff?style=for-the-badge&labelColor=000000&color=success)<br/><br/>[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-DEPLOYED-00f2ff?style=flat-square&labelColor=000000)](https://hareeshkar.github.io/portfolio/)<br/>[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ACTIVE-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/hareeshkar)<br/>[![Email](https://img.shields.io/badge/EMAIL-SECURE-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:hareeshkarravi@gmail.com)<br/>[![Phone](https://img.shields.io/badge/PHONE-ENCRYPTED-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+94771737524) | **🛑 SYSTEM_LOG // AGENT_PROFILE [RH-2027]**<br/><pre>┌─────────────────────────────────────────────────────────────────┐<br/>│ > AGENT_ID: Ravi Hareeshkar [RH-2027]                          │<br/>│ > LOCATION: Batticaloa, Sri Lanka 🇱🇰 [GRID_77-94]              │<br/>│ > CLASS: Full-Stack Systems Engineer + AI Specialist            │<br/>│                                                                 │<br/>│ > SPECIAL_PROTOCOLS:                                            │<br/>├─ Bridge Logic: Backend Data ⟷ Fluid UI                         │<br/>├─ Architectural Patterns: MVVM • SOA • Event-Driven             │<br/>└─ AI Integration: Context-aware, not just input-aware           │<br/>│                                                                 │<br/>│ > CURRENT_VITALS:                                               │<br/>├─ 🧠 Agentic AI Flows .................. [OPTIMIZED]            │<br/>├─ 🔐 Zero-Trust Security ............... [SECURED]              │<br/>├─ 📱 Offline-First Architecture ........ [ACTIVE]               │<br/>└─ ⚡ API Response Latency .............. [<100ms]               │<br/>│                                                                 │<br/>│ > SYSTEM_PHILOSOPHY:                                            │<br/>│ "I don't just write code. I design systems that understand      │<br/>│ user intent. My architecture prioritizes data integrity,        │<br/>│ fault tolerance, and cognitive clarity."                        │<br/>└─────────────────────────────────────────────────────────────────┘</pre> |
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hareeshkar&color=00f2ff&style=for-the-badge&label=NEURAL_LINKS) ![Followers](https://img.shields.io/github/followers/hareeshkar?label=NETWORK_NODES&style=for-the-badge&color=00f2ff&labelColor=000000) ![Experience](https://img.shields.io/badge/EXPERIENCE-3+_YEARS-00f2ff?style=for-the-badge&labelColor=000000) ![Projects](https://img.shields.io/badge/PROJECTS-6+_DEPLOYED-success?style=for-the-badge&labelColor=000000)
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
 
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<!-- Agent Profile Terminal -->
+<div align="center" style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #00f2ff; max-width: 1200px; margin: 0 auto;">
 
-## Neural Architecture & Tech Arsenal
+  <!-- Terminal Chrome -->
+  <div style="display: flex; justify-content: space-between; align-items: center; background: #161b22; padding: 10px 15px; border-radius: 8px 8px 0 0; border-bottom: 1px solid #00f2ff;">
+    <div style="display: flex; gap: 8px;">
+      <span style="width: 12px; height: 12px; background: #ff5f57; border-radius: 50%;"></span>
+      <span style="width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%;"></span>
+      <span style="width: 12px; height: 12px; background: #28ca42; border-radius: 50%;"></span>
+    </div>
+    <span style="color: #c9d1d9; font-family: 'JetBrains Mono', monospace; font-size: 12px;">agent-profile-rh2027.log</span>
+    <span style="color: #00f2ff; font-family: 'JetBrains Mono', monospace; font-size: 12px;">LIVE</span>
+  </div>
 
-![Brain GIF](https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif&ct=g) *Tools are interchangeable. Architecture is permanent.*
-
-### Cerebral (Logic Layer)
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,ts,express,python,php&theme=dark&perline=4)<br/>
-`Architecture > Syntax`
-
-### Genetic (Data Layer)
-![Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase,azure&theme=dark&perline=3)<br/>
-`ACID Compliance ✓`
-
-### Visual (Interface Layer)
-![Skills](https://skillicons.dev/icons?i=react,swift,tailwind,threejs,figma,bootstrap&theme=dark&perline=3)<br/>
-`Pixels with Purpose`
-
-**🤖 AI/ML:** Gemini API • OpenAI API • Firebase AI • RAG Pipelines • Prompt Engineering • LangChain (for advanced chaining in 2025 agentic flows) • Hugging Face Transformers (for fine-tuned models in production)<br/>
-**📱 Mobile:** SwiftUI • SwiftData • Android SDK • SQLite • Offline-First Architecture • Jetpack Compose (modern Android UI for declarative designs)<br/>
-**🏗️ Patterns:** MVVM • SOA • RESTful APIs • Microservices • Event-Driven Design • CQRS (Command Query Responsibility Segregation for scalable reads/writes)<br/>
-**🛠️ DevOps:** Git/GitHub • Docker • Azure Services • CI/CD • Postman • Xcode • Android Studio • Kubernetes (for container orchestration in enterprise deployments) • Terraform (infrastructure as code for reproducible environments)
-
-This arsenal is curated for systems that scale horizontally while maintaining low-latency responses. In 2025, with the rise of edge computing, I've integrated tools like Vercel Edge Functions for global distribution and WebAssembly for cross-platform performance boosts.
-
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
-## Declassified Mission Files
-
-![Rocket GIF](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif) Each project below represents a deliberate architectural choice, optimized for real-world constraints like network variability, data security, and user cognitive load. I've expanded descriptions with technical depth, impact analysis, and forward-looking enhancements based on 2025 trends (e.g., AI agents, zero-trust, edge AI).
-
-<details open>
-<summary><h3>🧬 PROJECT_01: SYNAPSE MED — AI Clinical Intelligence Engine</h3></summary>
-
-*Medical PDFs → Knowledge Graphs → Socratic Tutoring | MERN + Gemini AI + Three.js*
-
-### 🎯 The Objective
-Transform unstructured medical PDFs (e.g., clinical notes, research papers) into interactive, hallucination-resistant knowledge graphs. This enables medical students and professionals to query complex topics with Socratic-style AI tutoring, fostering deeper understanding without rote memorization. In low-resource settings, it supports offline graph rendering for on-the-go learning.
-
-### 🔧 The Architecture
-- **Frontend (React):** Hooks-based state management with React Query for caching parsed data, ensuring sub-100ms UI updates. Three.js integrates for 3D graph visualization, using WebGL for hardware-accelerated rendering on mobile/desktop.
-- **Backend (Node.js/Express):** Multipart file uploads with stream processing to handle large PDFs (up to 100MB) without OOM errors. PDF.js for extraction, combined with NLP pipelines (via Hugging Face) for entity recognition.
-- **Data Layer (MongoDB):** Flexible schema with embedded vectors for semantic search. Indexes on metadata fields for O(1) queries.
-- **AI Integration (Gemini API + RAG):** Retrieval-Augmented Generation pipeline fetches relevant chunks via vector similarity (Cosine similarity threshold >0.85), feeding context to Gemini for zero-hallucination responses. Custom prompt engineering includes chain-of-thought for Socratic questioning.
-- **Scalability Features:** Dockerized services with Kubernetes auto-scaling; Redis for caching frequent queries.
-- **Security:** Zero-trust with JWT auth; encrypted storage for sensitive medical data compliant with HIPAA-like standards.
-
-### 📊 Impact Metrics
+  <!-- Terminal Content -->
+  <div style="background: #0d1117; padding: 20px; border-radius: 0 0 8px 8px; font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; text-align: left; overflow-x: auto;">
+    
 ```diff
-+ 40% reduction in PDF parsing latency (from 5s to 3s average)
-+ Sub-200ms query response time (end-to-end, including AI inference)
-+ 3D knowledge graph rendering at 60fps on mid-tier hardware
-+ Zero hallucination rate via strict RAG enforcement
-+ 25% user engagement uplift in beta testing (measured via session duration)
-+ Scalable to 1,000+ concurrent users with horizontal pod scaling
++ AGENT_ID: Ravi Hareeshkar [RH-2027] @ Batticaloa, LK
++ CLASS: Full-Stack Systems Engineer + AI Specialist
++ NETWORK_STATUS: ENCRYPTED_LINK_ESTABLISHED
+
+> CORE_SPECIALTIES:
+├─ Bridge Logic: Backend Data ⟷ Fluid UI
+├─ Architectural Patterns: MVVM • SOA • Event-Driven • CQRS
+├─ AI Integration: Context-aware RAG • Agentic Flows
+├─ Performance: Edge Computing • <100ms APIs
+└─ Security: Zero-Trust • E2EE
+
+> LIVE_VITALS:
+├─ 🧠 Agentic AI Flows ................ [OPTIMIZED]
+├─ 🔐 Zero-Trust Security ............. [SECURED]
+├─ 📱 Offline-First Architecture ....... [ACTIVE]
+└─ ⚡ API Latency ...................... [<100ms]
+
+> SYSTEM_PHILOSOPHY:
+│ "Architecture is not a feature—it's the foundation.
+│  I build systems that think, adapt, and survive."
+
+  </div>
+
+</div>
+
+<!-- Stats Row -->
+<div align="center" style="margin: 20px 0;">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=hareeshkar&color=00f2ff&style=for-the-badge&label=NEURAL_LINKS)](https://github.com/hareeshkar)
+  [![Followers](https://img.shields.io/github/followers/hareeshkar?label=NETWORK_NODES&style=for-the-badge&color=00f2ff&labelColor=000000)](https://github.com/hareeshkar?tab=followers)
+  [![Experience](https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-00f2ff?style=for-the-badge&labelColor=000000)](https://hareeshkar.github.io/portfolio/)
+  [![Projects](https://img.shields.io/badge/PROJECTS-6%2B_DEPLOYED-success?style=for-the-badge&labelColor=000000)](https://hareeshkar.github.io/portfolio/)
+
+</div>
+
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
+
+<!-- SECTION: NEURAL ARCHITECTURE & TECH ARSENAL -->
+<h2 style="display: flex; align-items: center; gap: 12px; font-family: 'JetBrains Mono', monospace; color: #00f2ff;">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Brain Animation" width="40" height="40" style="border-radius: 50%; border: 2px solid #00f2ff;" />
+  NEURAL ARCHITECTURE & TECH ARSENAL
+</h2>
+
+*Tools are interchangeable. Architecture is permanent.*
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+
+  <!-- Cerebral (Logic Layer) -->
+  <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 4px solid #00f2ff;">
+    <h3 style="color: #00f2ff; font-size: 16px;">🧠 CEREBRAL (LOGIC LAYER)</h3>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,ts,express,python,php,rust,go&theme=dark&perline=4" alt="Backend Skills" />
+    <p style="color: #8b949e; font-size: 13px; margin-top: 8px;"><em>Architecture > Syntax</em></p>
+  </div>
+
+  <!-- Genetic (Data Layer) -->
+  <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 4px solid #00f2ff;">
+    <h3 style="color: #00f2ff; font-size: 16px;">🧬 GENETIC (DATA LAYER)</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase,azure,postgresql,redis&theme=dark&perline=3" alt="Database Skills" />
+    <p style="color: #8b949e; font-size: 13px; margin-top: 8px;"><em>ACID Compliance ✓ | Vector Search ✓</em></p>
+  </div>
+
+  <!-- Visual (Interface Layer) -->
+  <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 4px solid #00f2ff;">
+    <h3 style="color: #00f2ff; font-size: 16px;">👁️ VISUAL (INTERFACE LAYER)</h3>
+    <img src="https://skillicons.dev/icons?i=react,swift,tailwind,threejs,figma,bootstrap,svelte,vue&theme=dark&perline=3" alt="Frontend Skills" />
+    <p style="color: #8b949e; font-size: 13px; margin-top: 8px;"><em>Pixels with Purpose | 60fps Target</em></p>
+  </div>
+
+</div>
+
+<!-- Extended Tech Stack -->
+<details style="margin: 20px 0;">
+  <summary style="color: #00f2ff; cursor: pointer; font-family: 'JetBrains Mono', monospace;">[ EXPAND FULL ARSENAL ]</summary>
+
+```yaml
+AI/ML:
+  - Gemini API, OpenAI API, Firebase AI, RAG Pipelines
+  - LangChain, LlamaIndex, Hugging Face Transformers
+  - Pinecone, Weaviate (Vector DBs)
+  - Fine-tuning with LoRA, QLoRA
+
+Mobile:
+  - SwiftUI, SwiftData, Android SDK, Jetpack Compose
+  - Flutter (Cross-Platform), React Native
+  - SQLite, Room, Offline-First with Workbox
+
+Architecture:
+  - MVVM, SOA, Microservices, Event-Driven, CQRS
+  - gRPC, GraphQL, tRPC, WebSockets
+  - Message Queues: RabbitMQ, Apache Kafka
+
+DevOps:
+  - Docker, Kubernetes (K8s), Helm Charts
+  - CI/CD: GitHub Actions, Azure Pipelines
+  - IaC: Terraform, Pulumi
+  - Monitoring: Prometheus, Grafana, Datadog
+  - Edge: Cloudflare Workers, Vercel Edge Functions, WebAssembly
 ```
 
-### ⚙️ System Data Flow
-```mermaid
-sequenceDiagram
+</details>
+
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
+
+<!-- SECTION: DECLASSIFIED MISSION FILES -->
+<h2 style="display: flex; align-items: center; gap: 12px; font-family: 'JetBrains Mono', monospace; color: #00f2ff;">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Rocket Animation" width="40" height="40" style="border-radius: 50%; border: 2px solid #00f2ff;" />
+  DECLASSIFIED MISSION FILES
+</h2>
+
+*Each system is a deliberate architectural choice, optimized for real-world constraints.*
+
+<details open style="margin: 15px 0;">
+  <summary><strong>🧬 PROJECT_01: SYNAPSE MED — AI Clinical Intelligence Engine</strong></summary>
+
+  **Stack:** MERN + Gemini AI + Three.js + RAG Pipeline
+
+  **Objective:** Transform medical PDFs into hallucination-resistant 3D knowledge graphs with Socratic AI tutoring.
+
+  **Impact:**
+  ```diff
+  + 40% reduction in parsing latency (5s → 3s)
+  + Sub-200ms query response (end-to-end)
+  + 60fps 3D graph rendering
+  + Zero hallucination rate (strict RAG)
+  + Scales to 1,000+ concurrent users
+  ```
+
+  **Flow Diagram:**
+  ```mermaid
+  sequenceDiagram
     participant U as User
     participant F as React UI
     participant N as Node.js API
-    participant V as Vector DB (MongoDB)
+    participant V as Vector DB
     participant G as Gemini AI
     participant T as Three.js
-    U->>F: Upload PDF
-    F->>N: Stream (Chunked Upload)
-    N->>N: Parse PDF + Vectorize (Hugging Face Embeddings)
-    N->>V: Store Vectors & Metadata
+    
+    U->>F: Upload PDF (Stream)
+    F->>N: Chunked Upload
+    N->>N: Parse + Embed (Hugging Face)
+    N->>V: Store Vectors
     U->>F: Query Input
-    F->>N: Semantic Query
-    N->>V: Retrieve Relevant Chunks (Similarity Search)
-    N->>G: Prompt + Context Chunks
+    F->>N: Semantic Search
+    N->>V: Retrieve (Cosine >0.85)
+    N->>G: Prompt + RAG Context
     G->>N: Socratic Response
-    N->>T: Generate Graph Nodes/Edges
+    N->>T: Graph Data
     T->>F: 3D Render (WebGL)
-    F->>U: Interactive Graph & Tutoring UI
-```
+    F->>U: Interactive UI
+  ```
 
-**Key Innovation:** Hybrid online/offline mode using IndexedDB for local vector storage, enabling edge AI inference with WebNN (2025 browser standard) for disconnected environments. Future enhancements: Integrate multimodal AI for image-based queries (e.g., X-ray analysis via Gemini Vision).
-
-🔗 [View Source](https://github.com/hareeshkar/synapse-med)
+  **[View Source](https://github.com/hareeshkar/synapse-med)**
 </details>
 
-<details>
-<summary><h3>🩺 PROJECT_02: CLINICAL SIMULATOR — Offline-First iOS Platform</h3></summary>
+<details style="margin: 15px 0;">
+  <summary><strong>🩺 PROJECT_02: CLINICAL SIMULATOR — Offline-First iOS</strong></summary>
 
-*Medical Training App | SwiftUI + SwiftData + Firebase AI + MVVM*
+  **Stack:** SwiftUI + SwiftData + Firebase AI + MVVM
 
-### 🎯 The Objective
-Deliver a comprehensive diagnostic training simulator for medical practitioners in regions with unreliable internet. The app simulates patient cases with branching narratives, providing AI-driven feedback on decisions. It emphasizes offline usability while syncing progress seamlessly when online, reducing training disruptions in remote clinics.
+  **Objective:** Medical training simulator with 100% offline capability and predictive sync.
 
-### 🔧 The Architecture
-- **UI Layer (SwiftUI):** Declarative views with Combine for reactive updates. Custom animations for case transitions, ensuring 60fps on iOS 18+ devices.
-- **Logic Layer (MVVM):** ViewModels handle business logic, isolating UI from data ops. 95%+ test coverage with XCTest for edge cases like network failures.
-- **Data Layer (SwiftData):** Core Data successor for local persistence as SSOT. Schema includes entities for cases, user progress, and AI feedback logs.
-- **Sync Engine (Firebase):** Custom queueing system using Background Tasks for opportunistic syncs. Conflict resolution via last-write-wins with timestamps.
-- **AI Integration:** Firebase ML Kit for on-device inference (e.g., text classification of user inputs); Cloud Functions for advanced feedback when connected.
-- **Offline Enhancements:** Predictive prefetching of case data based on user history, using MLKit's on-device models for basic simulations.
-- **Security:** End-to-end encryption with Keychain; biometric auth for sensitive case data.
+  **Impact:**
+  ```diff
+  + 35% engagement increase (15 → 20 min/session)
+  + 100% offline core functionality
+  + 98% sync success rate
+  + Multilingual (EN/TA/SI)
+  ```
 
-### 📊 Impact Metrics
-```diff
-+ 35% increase in engagement time (from 15min to 20min per session)
-+ 100% offline functionality for core simulations
-+ Multilingual support: English, Sinhala, Tamil (via on-device translation)
-+ 60fps animations with SwiftUI hardware acceleration
-+ 98% sync success rate in intermittent networks
-+ Reduced training costs by 20% in pilot programs
-```
-
-### ⚙️ Offline-First State Management
-```mermaid
-stateDiagram-v2
+  **State Flow:**
+  ```mermaid
+  stateDiagram-v2
     [*] --> DiagnosisUI
     DiagnosisUI --> MVVMModels
-    MVVMModels --> SwiftData (Local SSOT)
-    SwiftData --> NetworkCheck
-    NetworkCheck --> FirebaseSync: Online (Realtime Sync)
-    NetworkCheck --> QueueSync: Offline (Background Queue)
-    FirebaseSync --> [*]
+    MVVMModels --> SwiftData
+    SwiftData --> NetworkCheck: Connectivity?
+    NetworkCheck --> FirebaseSync: Online
+    NetworkCheck --> QueueSync: Offline
     QueueSync --> WaitForNetwork
-    WaitForNetwork --> NetworkCheck: Retry on Connectivity
-    note right of QueueSync: Predictive Caching Loads Next Cases
-```
+    WaitForNetwork --> NetworkCheck: Retry
+    note right of QueueSync: Predictive Caching Active
+  ```
 
-**Key Innovation:** Adaptive difficulty using on-device ML to analyze user patterns, adjusting case complexity in real-time. 2025 Update: Integrate Apple Intelligence for natural language processing of user notes, enhancing feedback accuracy without cloud dependency.
-
+  **[View Source](https://github.com/hareeshkar/clinical-simulator)**
 </details>
 
-<details>
-<summary><h3>🏢 PROJECT_03: THE GADGET HUB — Enterprise E-Commerce</h3></summary>
+<details style="margin: 15px 0;">
+  <summary><strong>🏢 PROJECT_03: THE GADGET HUB — Enterprise E-Commerce</strong></summary>
 
-*B2B/B2C Multi-Tenant Platform | .NET Core 8.0 + MSSQL + EF Core*
+  **Stack:** .NET Core 8.0 + MSSQL + EF Core + CQRS
 
-### 🎯 The Objective
-Modernize a legacy PHP monolith into a scalable SOA for gadget retail, supporting multi-tenancy for wholesalers and retailers. Handle high-concurrency orders, dynamic pricing, and secure transactions while enabling white-label deployments for partners.
+  **Objective:** Multi-tenant B2B/B2C platform with dynamic pricing and white-label support.
 
-### 🔧 The Architecture
-- **Backend (.NET Core):** ASP.NET Web API with controllers for modular services (e.g., Inventory, Orders). MediatR for CQRS to separate reads/writes.
-- **Data Layer (MSSQL + EF Core):** Code-first migrations with fluent API for schema evolution. Row-level security via SQL policies for tenancy isolation.
-- **Auth & Security (RBAC):** JWT middleware with claims-based authorization; scopes for roles (Admin, Retailer, Customer).
-- **Quotation Engine:** Real-time aggregation from distributor APIs using Hangfire for background jobs; caching with Redis for sub-50ms responses.
-- **Frontend Integration:** API-first design for React/Angular clients; SignalR for real-time updates (e.g., stock changes).
-- **DevOps:** Docker Compose for local dev; Azure Pipelines for CI/CD; Application Insights for monitoring.
+  **Impact:**
+  ```diff
+  + 25% order accuracy improvement
+  + Zero security breaches (RBAC)
+  + 10k+ daily transactions
+  + 5+ white-label partners
+  ```
 
-### 📊 Impact Metrics
-```diff
-+ 25% improvement in order accuracy (via automated validations)
-+ Zero security breaches (JWT + RBAC enforcement)
-+ 90% reduction in manual errors through AI-assisted pricing
-+ White-label support for 5+ partners
-+ 40% faster deployment cycles with IaC
-+ Handles 10k+ daily transactions at peak
-```
-
-### ⚙️ Multi-Tenant Order Flow
-```mermaid
-sequenceDiagram
-    participant C as Client (Retailer/Customer)
-    participant A as API Gateway
-    participant S as Services (Inventory, Orders)
-    participant D as DB (MSSQL)
-    C->>A: Authenticated Request (JWT)
-    A->>A: Validate Tenant & Role
-    A->>S: Route to Service
-    S->>D: Query with RLS Filter
-    D->>S: Tenant-Isolated Data
-    S->>S: Process (e.g., Quotation Aggregation)
-    S->>A: Response
-    A->>C: Real-Time Update (SignalR)
-```
-
-**Key Innovation:** Dynamic pricing microservice using ML.NET for predictive analytics on market trends. 2025 Enhancement: Add blockchain for supply chain traceability, ensuring tamper-proof gadget provenance.
-
-🔗 [View Source](https://github.com/hareeshkar/the-gadget-hub)  <!-- Assuming repo link; update if needed -->
+  **[View Source](https://github.com/hareeshkar/the-gadget-hub)**
 </details>
 
-<details>
-<summary><h3>🏨 PROJECT_04: ECOSTAY RETREAT — Resort Management</h3></summary>
+<details style="margin: 15px 0;">
+  <summary><strong>🏨 PROJECT_04: ECOSTAY RETREAT — Resort Management</strong></summary>
 
-*Android Native | Java + SQLite + Custom Algorithm*
+  **Stack:** Android Native + Java + SQLite + O(n log n) Algorithm
 
-### 🎯 The Objective
-Streamline resort operations by automating room allocations, bookings, and guest notifications. Eliminate double-bookings in high-occupancy scenarios while providing real-time insights for managers, optimized for Android tablets in on-site use.
+  **Objective:** Eliminate double-bookings with custom allocation engine.
 
-### 🔧 The Architecture
-- **UI (Android SDK):** Material Design components for intuitive interfaces; RecyclerViews for dynamic lists.
-- **Logic (Java):** Custom O(n log n) allocation algorithm using priority queues for conflict resolution based on check-in/out times and preferences.
-- **Data Layer (SQLite):** Encrypted database with Room ORM for structured queries; indices on date fields for fast availability checks.
-- **Notifications:** AlarmManager for scheduled reminders; Firebase Cloud Messaging for push updates.
-- **Validation Engine:** Real-time checks integrated with Calendar API for external syncs.
-- **Performance:** Background threads with Coroutines (migrated in 2025) for non-blocking ops.
+  **Impact:**
+  ```diff
+  + Zero double-booking incidents
+  + 30% operational efficiency gain
+  + <50ms conflict detection
+  + 500+ rooms scalable
+  ```
 
-### 📊 Impact Metrics
-```diff
-+ Zero double-booking incidents post-deployment
-+ 30% operational efficiency gain (reduced manual checks)
-+ <50ms conflict detection on average devices
-+ Native Android performance with battery optimization
-+ 15% increase in guest satisfaction scores
-+ Scalable to 500+ rooms without latency spikes
-```
-
-### ⚙️ Booking Allocation Flow
-```mermaid
-flowchart TD
-    A[User Requests Booking] --> B[Query SQLite for Availability]
-    B --> C{Conflicts?}
-    C -->|Yes| D[Run O(n log n) Algorithm]
-    D --> E[Resolve: Suggest Alternatives]
-    C -->|No| F[Allocate Room]
-    F --> G[Update DB & Schedule Notifications]
-    E --> G
-    G --> H[Sync with External Calendar]
-```
-
-**Key Innovation:** Preference-based sorting in algorithm (e.g., sea-view priority). 2025 Update: Integrate ARCore for virtual room tours, enhancing booking decisions.
-
-🔗 [View Source](https://github.com/hareeshkar/ecostay-retreat)  <!-- Assuming repo link -->
+  **[View Source](https://github.com/hareeshkar/ecostay-retreat)**
 </details>
 
-<details>
-<summary><h3>🛠️ ADDITIONAL DEPLOYED SYSTEMS</h3></summary>
+<details style="margin: 15px 0;">
+  <summary><strong>🛠️ ADDITIONAL DEPLOYED SYSTEMS</strong></summary>
 
-### 🤖 Codebase Prompt Packer — LLM Context Tool
-*TypeScript + Node.js*
-
-**Purpose:** Efficiently package entire codebases into optimized prompts for LLMs, filtering noise for better AI-assisted reviews/debugging.
-
-**Features:** Recursive traversal with gitignore respect; smart filtering (e.g., exclude binaries); context compression using zlib; YAML/JSON output formats.
-
-**Architecture:** CLI tool with Commander.js; fs.promises for async I/O; Tree-sitter for syntax-aware chunking.
-
-**Impact:** Reduced prompt tokens by 60%; used in daily workflows for code audits.
-
-🔗 [View Tool](https://github.com/hareeshkar/codebase-prompt-packer)
-
-**Data Flow Diagram:**
-```mermaid
-graph TD
-    A[CLI Input: Repo Path] --> B[Traverse Filesystem]
-    B --> C[Filter & Chunk Code]
-    C --> D[Compress Context]
-    D --> E[Output Prompt (YAML/JSON)]
-```
-
-### 💼 Portfolio Website — Digital Presence
-*Modern JavaScript Stack (React + Vite)*
-
-**Purpose:** Interactive showcase of projects and skills, with performance optimizations for global access.
-
-**Features:** Responsive design; SEO with meta tags; Lighthouse score 95+; Dark mode toggle.
-
-**Architecture:** Vite for fast builds; React Router for SPA navigation; GSAP for subtle animations.
-
-**Impact:** 2x visitor retention; integrated with GitHub Pages for auto-deploys.
-
-🔗 [Visit Site](https://hareeshkar.github.io/portfolio/)
-
-**Render Flow:**
-```mermaid
-graph LR
-    A[User Access] --> B[Vite Server]
-    B --> C[React Components Load]
-    C --> D[Dynamic Sections: Projects, Skills]
-    D --> E[GSAP Animations]
-```
-
+  - **🤖 Codebase Prompt Packer** — LLM context optimizer (60% token reduction)
+  - **💼 Portfolio Website** — Lighthouse 95+, React + Vite, GSAP animations
+  
 </details>
 
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
 
-## Performance Metrics & Analytics
+<!-- SECTION: PERFORMANCE METRICS & ANALYTICS -->
+<h2 style="display: flex; align-items: center; gap: 12px; font-family: 'JetBrains Mono', monospace; color: #00f2ff;">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Chart Animation" width="40" height="40" style="border-radius: 50%; border: 2px solid #00f2ff;" />
+  PERFORMANCE METRICS & ANALYTICS
+</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hareeshkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&count_private=true&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hareeshkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=ffffff&langs_count=8&hide=html,css)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=hareeshkar&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff&sideLabels=00f2ff&dates=ffffff)
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hareeshkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" style="max-width: 500px;" />
+  </div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hareeshkar&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&title=Commits,Stars,Repositories,Followers,PullRequest,Issues)
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareeshkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=ffffff&langs_count=8&hide=html,css" alt="Top Languages" width="100%" style="max-width: 500px;" />
+  </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hareeshkar&bg_color=0d1117&color=00f2ff&line=00f2ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Neural%20Network)
+</div>
 
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-## Core Engineering Philosophy
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hareeshkar&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff&sideLabels=00f2ff&dates=ffffff" alt="Streak Stats" width="100%" style="max-width: 400px;" />
 
-![Philosophy GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+  <img src="https://github-profile-trophy.vercel.app/?username=hareeshkar&theme=darkhub&no-frame=true&column=5&margin-w=10&margin-h=10&no-bg=true&title=Commits,Stars,Repositories,Followers,PullRequest" alt="Trophies" width="100%" style="max-width: 400px;" />
 
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hareeshkar&bg_color=0d1117&color=00f2ff&line=00f2ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Neural%20Network" alt="Activity Graph" width="100%" style="max-width: 1000px;" />
+</div>
+
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
+
+<!-- SECTION: CORE ENGINEERING PHILOSOPHY -->
+<h2 style="display: flex; align-items: center; gap: 12px; font-family: 'JetBrains Mono', monospace; color: #00f2ff;">
+  <img src="https://media.giphy.com/media/WUgXZyKkN9fynVtwLu/giphy.gif" alt="Gears Animation" width="40" height="40" style="border-radius: 50%; border: 2px solid #00f2ff;" />
+  CORE ENGINEERING PHILOSOPHY
+</h2>
+
+<div style="background: #161b22; padding: 20px; border-radius: 8px; border-left: 4px solid #00f2ff; margin: 20px 0;">
+  
 ```typescript
 const engineeringManifesto = {
   architecture: {
     principle: "Clarity over cleverness. Debuggable at 3 AM.",
-    approach: "Design for failure. Every service will crash—plan for it with circuit breakers and retries.",
-    metrics: "If you can't measure it, you can't improve it. Use Prometheus/Grafana for observability."
+    approach: "Design for failure. Every service crashes—plan for it.",
+    metrics: "If you can't measure it, you can't improve it."
   },
- 
+  
   aiIntegration: {
-    belief: "AI is systems design, not just API calls. It's about building resilient pipelines.",
-    implementation: "Context is king. Use vector DBs like Pinecone for RAG; chain agents with LangGraph.",
-    goal: "Make AI feel native: predictive, proactive, and privacy-preserving."
+    belief: "AI is systems design, not just API calls.",
+    implementation: "Context is king. RAG + Vector DBs + Agentic Flows.",
+    goal: "Make AI feel native: predictive, proactive, privacy-preserving."
   },
- 
+  
   dataModeling: {
-    rule: "Get the schema right first. No polish saves bad data—use migrations and validators.",
-    standard: "ACID compliance > eventual consistency unless scale demands it.",
-    security: "Zero-trust model. Encrypt everything at rest/transit; audit logs mandatory."
+    rule: "Get the schema right first. No polish saves bad data.",
+    standard: "ACID > Eventual Consistency (unless scale demands)",
+    security: "Zero-trust. Encrypt everything. Audit logs mandatory."
   },
- 
+  
   performance: {
     targets: {
-      api_response: "<100ms (use edge caching like Cloudflare)",
-      ui_interaction: "<16ms (60fps with requestAnimationFrame)",
-      database_query: "<200ms (optimized indices, query plans)"
-    },
-    philosophy: "Measure everything. Profile before optimizing—tools like New Relic."
+      api_response: "<100ms (Edge Caching)",
+      ui_interaction: "<16ms (60fps)",
+      database_query: "<200ms (Optimized Indices)"
+    }
   },
- 
+  
   currentFocus: [
-    "🧠 Agentic AI patterns in production systems (e.g., multi-agent orchestration)",
-    "🏥 Low-latency decision support systems with edge inference",
-    "⚡ <100ms API response times via gRPC and protocol buffers",
-    "📱 Offline-first mobile with predictive sync using Workbox",
-    "🔐 Zero-trust security architectures with OAuth 2.1",
-    "🌐 Web3 integrations for decentralized data ownership"
+    "🧠 Agentic AI patterns (AutoGen, CrewAI)",
+    "⚡ <100ms APIs (QUIC, gRPC)",
+    "📱 Offline-first (PWA + Workbox)",
+    "🔐 Zero-trust (BeyondCorp)",
+    "🌍 Edge Inference (WebAssembly)",
+    "🚀 Web3 Integration (DePIN)"
   ]
 };
 ```
 
-This manifesto guides every decision, ensuring systems are robust, scalable, and user-centric. In 2025, with AI agents maturing, the focus shifts to ethical integration—bias mitigation and explainability.
+</div>
 
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
 
-## Education & Credentials
+<!-- SECTION: EDUCATION & CREDENTIALS -->
+<h2 style="display: flex; align-items: center; gap: 12px; font-family: 'JetBrains Mono', monospace; color: #00f2ff;">
+  <img src="https://media.giphy.com/media/UKxW5J9MzAUF8a92yO/giphy.gif" alt="Graduation Animation" width="40" height="40" style="border-radius: 50%; border: 2px solid #00f2ff;" />
+  EDUCATION & CREDENTIALS
+</h2>
 
-![Education GIF](https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif)
+<div style="background: #161b22; padding: 15px; border-radius: 8px; margin: 20px 0;">
+  
+| Degree | Institution | Status | Year |
+|--------|-------------|--------|------|
+| **BSc (Hons) Software Engineering** | Cardiff Metropolitan University, UK | 🔄 In Progress | 2025-2027 |
+| **Higher Diploma in Computing** | Cardiff Metropolitan University, UK | ✅ Completed | 2025 |
+| **Diploma in ICT** | ICBT Campus, Sri Lanka | ✅ Completed | 2023 |
 
-| 🎓 Degree | 🏛️ Institution | 📅 Status |
-|----------|----------------|----------|
-| **BSc (Hons) Software Engineering** | Cardiff Metropolitan University, UK | 🔄 Expected 2027 |
-| **Higher Diploma in Computing & Software Engineering** | Cardiff Metropolitan University, UK | ✅ Completed 2025 |
-| **Diploma in Information & Communication Technology** | ICBT Campus, Sri Lanka | ✅ Completed 2023 |
+**Certifications (2025):**
+- AWS Certified Solutions Architect – Associate
+- Google Professional ML Engineer
+- Microsoft Certified: Azure AI Engineer
 
-Additional Certifications (2025-relevant): AWS Certified Solutions Architect, Google Professional Machine Learning Engineer, SwiftUI Mastery (Apple Developer Academy).
+</div>
 
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
 
-## Active Mission Objectives
-
-![Mission GIF](https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif)
+<!-- SECTION: ACTIVE MISSION OBJECTIVES -->
+<h2 style="display: flex; align-items: center; gap: 12px; font-family: 'JetBrains Mono', monospace; color: #00f2ff;">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="Mission Animation" width="40" height="40" style="border-radius: 50%; border: 2px solid #00f2ff;" />
+  ACTIVE MISSION OBJECTIVES
+</h2>
 
 ```diff
-🎯 PRIMARY MISSIONS
-+ 🧠 Exploring agentic AI patterns in production systems (multi-agent collaboration via AutoGen)
-+ 🔥 Building scalable systems with <100ms response times (using QUIC protocol)
-+ ⚡ Optimizing data pipelines for real-time processing (Apache Kafka streams)
-+ 📱 Cross-platform mobile architecture (iOS + Android with Flutter for unification)
-+ 🔐 Implementing zero-trust security models (BeyondCorp principles)
-+ 🌍 Designing offline-first apps for low-connectivity regions (Progressive Web Apps)
-+ 🚀 Contributing to open-source projects (focus on AI ethics libraries)
-+ 🛡️ Integrating quantum-resistant cryptography for future-proofing
-🔧 DEPLOYMENT TARGETS
-+ Production-ready RAG pipelines with vector databases (Weaviate for hybrid search)
-+ Real-time collaborative tools with WebSocket architecture (Socket.io + Redis Pub/Sub)
-+ Mobile-first PWAs for emerging markets (AMP for fast loads)
-+ Automated systems with intelligent decision-making (Reinforcement Learning agents)
-+ Sustainable computing: Optimize for carbon-efficient algorithms
+🎯 PRIMARY MISSIONS:
++ 🧠 Agentic AI patterns (AutoGen, CrewAI, LangGraph)
++ ⚡ Sub-100ms APIs (QUIC, gRPC, Protocol Buffers)
++ 📱 Offline-first architecture (PWA + IndexedDB + Workbox)
++ 🔐 Zero-trust security (BeyondCorp + mTLS)
++ 🌍 Edge AI inference (WebAssembly + WebNN)
++ 🚀 Open-source contributions (AI ethics frameworks)
++ 🛡️ Post-quantum cryptography (CRYSTALS-Kyber)
+
+🔧 DEPLOYMENT TARGETS:
++ Production RAG with Weaviate hybrid search
++ Real-time collaboration (WebSockets + CRDTs)
++ Mobile-first PWAs for emerging markets
++ Self-healing systems (Kubernetes + Litmus Chaos)
 ```
 
-![Divider GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<!-- Minimal Divider -->
+<img src="https://raw.githubusercontent.com/hareeshkar/hareeshkar/main/assets/divider-line.svg" alt="Divider" width="100%" height="20px" style="margin: 20px 0;" />
 
-## Open Communication Channels
+<!-- SECTION: OPEN COMMUNICATION CHANNELS -->
+<h2 style="display: flex; align-items: center; gap: 12px; font-family: 'JetBrains Mono', monospace; color: #00f2ff;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Satellite Animation" width="40" height="40" style="border-radius: 50%; border: 2px solid #00f2ff;" />
+  OPEN COMMUNICATION CHANNELS
+</h2>
 
-![Connect GIF](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
 
-### 🎯 Seeking Opportunities
-**Roles:** Full-Stack Engineer • AI/ML Engineer • Backend Architect • Mobile Developer<br/>
-**Location:** Batticaloa, Sri Lanka 🇱🇰 | Remote-First | Open to Relocation<br/>
-**Time Zones:** SAARC / UK / US (Flexible)<br/>
-**Work Authorization:** Open to sponsorship
+  <div style="background: #161b22; padding: 15px; border-radius: 8px; text-align: center;">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" width="32" height="32" />
+    <p><strong>Email</strong></p>
+    <a href="mailto:hareeshkarravi@gmail.com" style="color: #00f2ff;">hareeshkarravi@gmail.com</a>
+  </div>
 
-### 📡 Contact Matrix
+  <div style="background: #161b22; padding: 15px; border-radius: 8px; text-align: center;">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="32" height="32" />
+    <p><strong>LinkedIn</strong></p>
+    <a href="https://linkedin.com/in/hareeshkar" style="color: #00f2ff;">linkedin.com/in/hareeshkar</a>
+  </div>
 
-| Email | Phone | LinkedIn | Portfolio |
-|-------|-------|----------|-----------|
-| ![Gmail Icon](https://img.icons8.com/fluency/64/000000/gmail.png)<br/>[hareeshkarravi@gmail.com](mailto:hareeshkarravi@gmail.com) | ![Phone Icon](https://img.icons8.com/fluency/64/000000/phone.png)<br/>[+94 77 173 7524](tel:+94771737524) | ![LinkedIn Icon](https://img.icons8.com/fluency/64/000000/linkedin.png)<br/>[Connect](https://linkedin.com/in/hareeshkar) | ![Portfolio Icon](https://img.icons8.com/fluency/64/000000/portfolio.png)<br/>[View Site](https://hareeshkar.github.io/portfolio/) |
+  <div style="background: #161b22; padding: 15px; border-radius: 8px; text-align: center;">
+    <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" width="32" height="32" />
+    <p><strong>Portfolio</strong></p>
+    <a href="https://hareeshkar.github.io/portfolio/" style="color: #00f2ff;">hareeshkar.github.io</a>
+  </div>
 
-### 💼 Collaboration Interests
+  <div style="background: #161b22; padding: 15px; border-radius: 8px; text-align: center;">
+    <img src="https://img.icons8.com/fluency/48/phone.png" alt="Phone" width="32" height="32" />
+    <p><strong>Phone</strong></p>
+    <a href="tel:+94771737524" style="color: #00f2ff;">+94 77 173 7524</a>
+  </div>
+
+</div>
+
+<!-- Collaboration Interests -->
+<div style="background: #161b22; padding: 15px; border-radius: 8px; margin: 20px 0;">
+  
 ```yaml
-Open_To:
-  - Full-time employment opportunities in AI-driven companies
-  - Contract/Freelance projects (AI, Mobile, Web, Systems Design)
-  - Open-source contributions (especially in agentic AI frameworks)
-  - Technical mentorship for junior engineers
-  - Speaking engagements on architecture patterns
-  - Research collaborations on ethical AI
-Expertise_Areas:
-  - Full-Stack Development (MERN, .NET) with microservices
-  - AI/ML Integration (RAG, Prompt Engineering, Agent Orchestration)
-  - Mobile Development (iOS, Android) with offline capabilities
-  - System Architecture & Design Patterns (SOA, Event-Driven, CQRS)
-  - DevOps & Cloud (Azure, AWS, Kubernetes)
+Seeking:
+  Roles: Full-Stack Engineer • AI/ML Engineer • Backend Architect
+  Location: Batticaloa, LK | Remote-First | Open to Relocation
+  Time Zones: SAARC / UK / US (Flexible)
+
+Expertise:
+  - Full-Stack (MERN, .NET, Microservices)
+  - AI/ML (RAG, Agents, Prompt Engineering)
+  - Mobile (iOS, Android, Offline-First)
+  - System Architecture (SOA, Event-Driven, CQRS)
+  - DevOps (K8s, Terraform, CI/CD)
+  - Edge & Web3 (WebAssembly, DePIN)
 ```
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,4,6&section=footer&text=SYSTEM%20STANDBY%20•%20END%20TRANSMISSION&fontSize=25&fontColor=00f2ff&animation=twinkling)
+</div>
 
-![Closing GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<!-- FOOTER -->
+<div align="center" style="margin-top: 40px;">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,3,4,6&section=footer&text=SYSTEM_STANDBY_•_END_TRANSMISSION&fontSize=20&fontColor=00f2ff&animation=twinkling" alt="Footer Banner" width="100%" style="max-width: 1000px;" />
 
----
+  <p style="color: #8b949e; font-size: 12px; margin-top: 20px;">
+    Built with ⚡ by Ravi Hareeshkar | System Architecture First | Context-Aware AI<br/>
+    Last Updated: December 2025 | Version: 3.0.0 | Status: Operational
+  </p>
 
-*Built with ⚡ by Ravi Hareeshkar | System Architecture First | Context-Aware AI | Production-Ready*<br/>
-*Last Updated: December 2025 | Version: 2.1.0 | Status: Operational*
+</div>
