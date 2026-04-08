@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px" style="border-radius:12px;" />
 </td>
 <td width="72%" align="center" valign="middle" style="border:none;">
-<h1>Ravi Hareeshkar</h1>
+<h1>Hareeshkar Ravi</h1>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1100&color=e8a045&center=true&vCenter=true&repeat=true&width=520&height=34&lines=Full-Stack+%26+Mobile+Developer;Next.js+%C2%B7+.NET+Core+%C2%B7+SwiftUI+%C2%B7+AI+Integration;Building+reliable+systems+%E2%80%94+one+commit+at+a+time" alt="Roles" />
 <br/><br/>
 <a href="https://hareeshkar.github.io/Hareeshkar_Portfolio/"><img src="https://img.shields.io/badge/portfolio-hareeshkar.github.io-111?style=flat-square&logo=vercel&logoColor=e8a045&labelColor=1a1a1a"/></a>&nbsp;
@@ -26,7 +26,7 @@
 ---
 
 ```ts
-const ravi = {
+const hareeshkar = {
   based_in   : "Batticaloa, Sri Lanka 🇱🇰",
   studying   : "BSc (Hons) Software Engineering — Cardiff Metropolitan University",
   working_at : "Aro Tech (Private) Limited  ·  Junior Full-Stack Developer (Freelance)",
