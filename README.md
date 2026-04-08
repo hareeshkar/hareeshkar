@@ -27,12 +27,14 @@
 
 ```ts
 const hareeshkar = {
-  based_in   : "Batticaloa, Sri Lanka 🇱🇰",
-  studying   : "BSc (Hons) Software Engineering — Cardiff Metropolitan University",
-  working_at : "Aro Tech (Private) Limited  ·  Junior Full-Stack Developer (Freelance)",
-  building   : ["AI-integrated tools", "full-stack web apps", "offline-first mobile"],
-  philosophy : "Build reliable systems. Stay honest about what you know.",
+  location   : "Batticaloa, Sri Lanka 🇱🇰",
+  education  : "BSc (Hons) Software Engineering — Cardiff Metropolitan University",
+  role       : "Junior Full‑Stack Developer (Freelance) · Aro Tech (Pvt) Ltd",
+  focus      : ["mobile & web apps", "APIs & backend systems", "full‑stack development"],
+  building   : ["AI‑assisted tools", "scalable web applications", "offline‑first mobile apps"],
+  approach   : "Design scalable systems, write clear code, and stay honest about what’s still being learned.",
 };
+
 ```
 
 ---
@@ -43,8 +45,7 @@ const hareeshkar = {
 
 **Junior Full-Stack Software Developer (Freelance)** &nbsp;·&nbsp; *Aro Tech (Private) Limited* &nbsp;·&nbsp; `Feb 2026 – Present`
 
-Working inside an ongoing product to stabilize and extend a mobile and web application. Day-to-day work includes refactoring the mobile UI, resolving broken user flows, wiring frontend components to backend endpoints, and supporting staged releases through API debugging and integration testing.
-
+Working in a live production environment across mobile, web, and backend systems. I contribute to mobile and web features, integrate frontend components with APIs, debug and test backend endpoints, and support production releases. My work spans UI updates, API integration, and backend improvements, with a growing focus on full‑stack development and system reliability.
 <br/>
 
 ---
