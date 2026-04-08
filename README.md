@@ -1,487 +1,186 @@
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CYBER-NEURAL INTERFACE: SYSTEM BOOT SEQUENCE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<!-- ATMOSPHERIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,3,4,6&text=RAVI%20HAREESHKAR&fontSize=80&fontColor=00f2ff&fontAlign=50&fontAlignY=35&animation=twinkling&stroke=00f2ff&strokeWidth=3&desc=FULL-STACK%20ARCHITECT%20•%20AI%20ENGINEER%20•%20SYSTEMS%20DESIGNER&descSize=20&descAlignY=55" width="100%"/>
+<br/>
 
-<!-- DYNAMIC TYPING TERMINAL -->
-<a href="https://github.com/hareeshkar">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=⚡+INITIALIZING+NEURAL+NETWORK...;⚡+LOADING_MODULE%3A+AI_POWERED_SYSTEMS;⚡+LOADING_MODULE%3A+SCALABLE_ARCHITECTURE;⚡+STACK%3A+MERN+%7C+.NET+CORE+%7C+SwiftUI+%7C+Android;⚡+STATUS%3A+READY_FOR_DEPLOYMENT+%E2%9C%93" alt="System Boot" />
-</a>
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- IDENTITY MATRIX: AGENT PROFILE (FIXED TERMINAL) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<div align="center">
-<table width="98%" style="border: none;">
+<table width="100%" style="border:none;" cellspacing="0" cellpadding="0">
 <tr>
-<td width="35%" valign="top" align="center" style="border: none;">
-<br/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" style="border-radius: 15px; border: 3px solid #00f2ff;"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/SECURITY_CLEARANCE-GRANTED-00f2ff?style=for-the-badge&labelColor=000000&color=success"/>
-<br/><br/>
-<a href="https://hareeshkar.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-DEPLOYED-00f2ff?style=flat-square&labelColor=000000"/>
-</a>
-<a href="https://linkedin.com/in/hareeshkar">
-<img src="https://img.shields.io/badge/LINKEDIN-ACTIVE-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-<br/>
-<a href="mailto:hareeshkarravi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SECURE-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=000000"/>
-</a>
-<a href="tel:+94771737524">
-<img src="https://img.shields.io/badge/PHONE-ENCRYPTED-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=000000"/>
-</a>
+<td width="28%" align="center" valign="middle" style="border:none;">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px" style="border-radius:12px;" />
 </td>
-<td width="65%" valign="top" style="border: none;">
-<br/>
-<!-- MacOS Terminal Wrapper (Fixed for GitHub) -->
-<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5); text-align: left;">
-  <!-- Title Bar -->
-  <div style="background: #161b22; padding: 12px; border-bottom: 1px solid #30363d;">
-    <span style="display: inline-block; width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; margin-right: 6px;"></span>
-    <span style="display: inline-block; width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; margin-right: 6px;"></span>
-    <span style="display: inline-block; width: 12px; height: 12px; background: #27c93f; border-radius: 50%; margin-right: 6px;"></span>
-    <span style="color: #8b949e; font-family: monospace; font-size: 12px; margin-left: 10px;">root@ravi-system:~/identity-matrix</span>
-  </div>
-  <!-- Terminal Content -->
-  <pre style="background: transparent; padding: 20px; color: #c9d1d9; font-family: 'JetBrains Mono', monospace; font-size: 13px; line-height: 1.5; margin: 0; white-space: pre-wrap;">
-<span style="color: #00f2ff;">> AGENT_ID:</span> Ravi Hareeshkar [RH-2027]
-<span style="color: #00f2ff;">> LOCATION:</span> Batticaloa, Sri Lanka 🇱🇰 [GRID_77-94]
-<span style="color: #00f2ff;">> CLASS:</span> Full-Stack Systems Engineer + AI Specialist
-
-<span style="color: #00f2ff;">> SPECIAL_PROTOCOLS:</span>
-  ├─ Bridge Logic: Backend Data ⟷ Fluid UI
-  ├─ Architectural Patterns: MVVM • SOA • Event-Driven
-  └─ AI Integration: Context-aware Intelligent Agents
-
-<span style="color: #00f2ff;">> CURRENT_VITALS:</span>
-  ├─ 🧠 Agentic AI Flows ........... [OPTIMIZED]
-  ├─ 🔐 Zero-Trust Security ........ [SECURED]
-  ├─ 📱 Offline-First Arch ......... [ACTIVE]
-  └─ ⚡ API Latency ................ [<100ms]
-
-<span style="color: #00f2ff;">> SYSTEM_PHILOSOPHY:</span>
-"I architect systems that understand intent. Data integrity
-and cognitive clarity are non-negotiable."
-  </pre>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<!-- QUICK STATS -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hareeshkar&color=00f2ff&style=for-the-badge&label=NEURAL_LINKS" alt="Views"/>
-<img src="https://img.shields.io/github/followers/hareeshkar?label=NETWORK_NODES&style=for-the-badge&color=00f2ff&labelColor=000000" alt="Followers"/>
-<img src="https://img.shields.io/badge/EXPERIENCE-3+_YEARS-00f2ff?style=for-the-badge&labelColor=000000" alt="Experience"/>
-<img src="https://img.shields.io/badge/PROJECTS-6+_DEPLOYED-success?style=for-the-badge&labelColor=000000" alt="Projects"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH ARSENAL -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<h2 align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" height="32px"> 
-NEURAL ARCHITECTURE & TECH ARSENAL 
-</h2>
-
-<div align="center">
-<i>"Tools are interchangeable. Architecture is permanent."</i>
-</div>
-
-<br/>
-
-<table width="100%" align="center" style="border: none;">
-<tr>
-<td width="33%" align="center" valign="top" style="border: none;">
-<h3>🧠 CEREBRAL (Logic Layer)</h3>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,ts,express,python,php&theme=dark&perline=4" />
+<td width="72%" align="center" valign="middle" style="border:none;">
+<h1>Ravi Hareeshkar</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1100&color=e8a045&center=true&vCenter=true&repeat=true&width=520&height=34&lines=Full-Stack+%26+Mobile+Developer;Next.js+%C2%B7+.NET+Core+%C2%B7+SwiftUI+%C2%B7+AI+Integration;Building+reliable+systems+%E2%80%94+one+commit+at+a+time" alt="Roles" />
 <br/><br/>
-<code>Architecture > Syntax</code>
-</td>
-<td width="33%" align="center" valign="top" style="border: none;">
-<h3>🧬 GENETIC (Data Layer)</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase,azure&theme=dark&perline=3" />
-<br/><br/>
-<code>ACID Compliance ✓</code>
-</td>
-<td width="33%" align="center" valign="top" style="border: none;">
-<h3>👁️ VISUAL (Interface Layer)</h3>
-<img src="https://skillicons.dev/icons?i=react,swift,tailwind,threejs,figma,bootstrap&theme=dark&perline=3" />
-<br/><br/>
-<code>Pixels with Purpose</code>
+<a href="https://hareeshkar.github.io/Hareeshkar_Portfolio/"><img src="https://img.shields.io/badge/portfolio-hareeshkar.github.io-111?style=flat-square&logo=vercel&logoColor=e8a045&labelColor=1a1a1a"/></a>&nbsp;
+<a href="https://linkedin.com/in/hareeshkar"><img src="https://img.shields.io/badge/linkedin-hareeshkar-111?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=1a1a1a"/></a>&nbsp;
+<a href="mailto:hareeshkarravi@gmail.com"><img src="https://img.shields.io/badge/email-hareeshkarravi@gmail.com-111?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=1a1a1a"/></a>&nbsp;
+<a href="https://github.com/hareeshkar"><img src="https://komarev.com/ghpvc/?username=hareeshkar&style=flat-square&color=e8a045&label=views"/></a>
 </td>
 </tr>
 </table>
 
-<div align="center">
-<br/>
-<b>🤖 AI/ML:</b> Gemini API • OpenAI API • Firebase AI • RAG Pipelines • Prompt Engineering<br/>
-<b>📱 Mobile:</b> SwiftUI • SwiftData • Android SDK • SQLite • Offline-First Architecture<br/>
-<b>🏗️ Patterns:</b> MVVM • SOA • RESTful APIs • Microservices • Event-Driven Design<br/>
-<b>🛠️ DevOps:</b> Git/GitHub • Docker • Azure Services • CI/CD • Postman • Xcode
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DEPLOYED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
-<h2 align="center">
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" height="40px"> 
-DECLASSIFIED MISSION FILES 
-</h2>
-
-<!-- PROJECT 1: SYNAPSE MED -->
-<details open>
-<summary>
-<h3 style="display:inline-block;">🧬 PROJECT_01: SYNAPSE MED — AI Clinical Intelligence Engine</h3>
-<p><i>Medical PDFs → Knowledge Graphs → Socratic Tutoring | MERN + Gemini AI + Three.js</i></p>
-</summary>
-
-#### 🎯 THE OBJECTIVE
-Convert dense medical PDFs into interactive, hallucination-free knowledge graphs with AI-powered Socratic questioning.
-
-#### 🔧 THE ARCHITECTURE
-*   **MongoDB Schema:** Handles variable-structure clinical notes with flexible document model.
-*   **Stream Processing:** Node.js backpressure handling for large file processing without memory leaks.
-*   **RAG Pipeline:** Gemini API receives vectorized context chunks—eliminates hallucinations.
-*   **3D Visualization:** Three.js renders real-time graphs with hardware acceleration.
-
-#### 📊 IMPACT METRICS
-```diff
-+ 40% reduction in PDF parsing latency
-+ Sub-200ms query response time
-+ 3D knowledge graph @ 60fps
-+ Zero hallucination rate (RAG architecture)
-```
-
-#### ⚙️ SYSTEM DATA FLOW
-```mermaid
-sequenceDiagram
-    participant U as User
-    participant F as React UI
-    participant N as Node.js API
-    participant V as Vector DB
-    participant G as Gemini AI
-    participant T as Three.js
-
-    U->>F: Upload PDF
-    F->>N: Stream (Chunked)
-    N->>N: Parse + Vectorize
-    N->>V: Store Chunks
-    U->>F: Semantic Query
-    F->>N: Request Context
-    N->>V: Retrieve Similar
-    N->>G: Context + Query
-    G->>N: Socratic Answer
-    N->>T: Node Data
-    T->>F: 3D Render
-```
-
-<a href="https://github.com/hareeshkar/synapse-med">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</details>
-
-<br/>
-
-<!-- PROJECT 2: CLINICAL SIMULATOR -->
-<details>
-<summary>
-<h3 style="display:inline-block;">🩺 PROJECT_02: CLINICAL SIMULATOR — Offline-First iOS Platform</h3>
-<p><i>Medical Training App | SwiftUI + SwiftData + Firebase AI + MVVM</i></p>
-</summary>
-
-#### 🎯 THE OBJECTIVE
-Build a diagnostic training tool that functions 100% offline with seamless online sync for low-connectivity regions.
-
-#### 🔧 THE ARCHITECTURE
-*   **MVVM Pattern:** Strict decoupled architecture ensuring 95%+ unit test coverage.
-*   **Local-First:** SwiftData as the Single Source of Truth for diagnostic records.
-*   **Sync Engine:** Background queuing system that prioritizes local data integrity.
-*   **AI Personas:** Firebase Cloud Functions for dynamic patient feedback.
-
-#### 📊 IMPACT METRICS
-```diff
-+ 35% increase in engagement time
-+ 100% offline functionality
-+ Multilingual: English, Sinhala, Tamil
-+ 60fps animations with SwiftUI
-```
-
-#### ⚙️ OFFLINE-FIRST STATE FLOW
-```mermaid
-flowchart TD
-    A[User Input] --> B[ViewModel]
-    B --> C[(SwiftData Local)]
-    C --> D{Net Active?}
-    D -- No --> E[Queue for Later]
-    D -- Yes --> F[Sync to Firebase]
-    F --> G[Update AI Context]
-    E --> D
-```
-</details>
-
-<br/>
-
-<!-- PROJECT 3: GADGET HUB -->
-<details>
-<summary>
-<h3 style="display:inline-block;">🏢 PROJECT_03: THE GADGET HUB — Enterprise E-Commerce</h3>
-<p><i>B2B/B2C Multi-Tenant Platform | .NET Core 8.0 + MSSQL + EF Core</i></p>
-</summary>
-
-#### 🎯 THE OBJECTIVE
-Migrate from legacy systems to a robust Service-Oriented Architecture (SOA) handling high-concurrency orders.
-
-#### 🔧 THE ARCHITECTURE
-*   **EF Core:** Code-first migrations with complex relational mapping.
-*   **RBAC:** JWT-based middleware validating Admin vs Retailer scopes.
-*   **Multi-Tenant:** Row-level security policies ensuring data isolation.
-
-#### 📊 IMPACT METRICS
-```diff
-+ 25% improvement in order accuracy
-+ Zero security breaches (JWT enforced)
-+ 90% reduction in manual data entry errors
-```
-
-#### ⚙️ MULTI-TENANT LOGIC
-```mermaid
-graph LR
-    U[User Request] --> J[JWT Validator]
-    J --> R{Role Check}
-    R -- Retailer --> P1[Retailer Portal]
-    R -- Admin --> P2[Admin Portal]
-    P1 --> DB[(Isolated SQL Data)]
-    P2 --> DB
-```
-</details>
-
-<br/>
-
-<!-- PROJECT 4: ECOSTAY -->
-<details>
-<summary>
-<h3 style="display:inline-block;">🏨 PROJECT_04: ECOSTAY RETREAT — Resort Management</h3>
-<p><i>Android Native | Java + SQLite + Custom Algorithm</i></p>
-</summary>
-
-#### 🎯 THE OBJECTIVE
-Eliminate booking conflicts through a custom algorithmic allocation engine for large-scale resorts.
-
-#### 🔧 THE ARCHITECTURE
-*   **Custom Algo:** O(n log n) sorting for optimized room allocation.
-*   **AlarmManager:** Automated background triggers for guest notifications.
-*   **SQLite:** High-performance local storage for instant availability lookups.
-
-#### ⚙️ ALLOCATION LOGIC
-```mermaid
-flowchart TD
-    S[Booking Request] --> C{Conflict?}
-    C -- Yes --> A[Run Allocation Algo]
-    A --> R[Suggest Alternative]
-    C -- No --> B[Confirm Room]
-    B --> D[Update SQLite]
-    R --> S
-```
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ARCHITECTURAL TOOLS & UTILITIES (ADDED MISSING SECTION) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<details>
-<summary>
-<h3 style="display:inline-block;">🛠️ ARCHITECTURAL TOOLS & UTILITIES</h3>
-<p><i>Developer Tooling & Digital Identity</i></p>
-</summary>
-
-#### 🤖 CODEBASE PROMPT PACKER
-*TypeScript + Node.js CLI*
-A developer productivity tool designed to traverse large monorepos and optimize context injection for Large Language Models.
-*   **Logic:** Recursive file tree traversal with `.gitignore` respect.
-*   **Safety:** TypeScript strict typing prevents IO race conditions.
-*   **Output:** Generates XML/JSON optimized for LLM token limits.
-
-<a href="https://github.com/hareeshkar/codebase-prompt-packer">
-<img src="https://img.shields.io/badge/VIEW_TOOL-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-#### 💼 PROFESSIONAL PORTFOLIO V2
-*React + Vite + GSAP*
-A high-performance digital identity platform showcasing architectural depth.
-*   **Performance:** 98+ Lighthouse Score via lazy-loading and asset compression.
-*   **Design:** Asymmetrical grid layouts with responsive motion.
-
-<a href="https://hareeshkar.github.io/portfolio/">
-<img src="https://img.shields.io/badge/VISIT_SITE-00f2ff?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<h2 align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" height="35px"> 
-PERFORMANCE METRICS & ANALYTICS 
-</h2>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hareeshkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareeshkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=ffffff&langs_count=8&hide=html,css"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hareeshkar&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff&sideLabels=00f2ff&dates=ffffff" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hareeshkar&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&title=Commits,Stars,Repositories,Followers,PullRequest,Issues" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ENGINEERING PHILOSOPHY (MACOS TERMINAL STYLE) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<h2 align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" height="35px"> 
-CORE ENGINEERING PHILOSOPHY 
-</h2>
-
-<div align="center">
-<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; width: 85%; box-shadow: 0 10px 30px rgba(0,0,0,0.5); text-align: left;">
-  <!-- Title Bar -->
-  <div style="background: #161b22; padding: 12px; border-bottom: 1px solid #30363d;">
-    <span style="display: inline-block; width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; margin-right: 6px;"></span>
-    <span style="display: inline-block; width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; margin-right: 6px;"></span>
-    <span style="display: inline-block; width: 12px; height: 12px; background: #27c93f; border-radius: 50%; margin-right: 6px;"></span>
-    <span style="color: #8b949e; font-family: monospace; font-size: 12px; margin-left: 10px;">ravi@engineer:~ /philosophy.ts</span>
-  </div>
-  <!-- Code Content -->
-  <pre style="background: transparent; padding: 20px; color: #c9d1d9; font-family: 'JetBrains Mono', monospace; font-size: 13px; line-height: 1.5; margin: 0; white-space: pre-wrap;">
-<span style="color: #c678dd;">const</span> <span style="color: #e06c75;">engineeringManifesto</span> = {
-  <span style="color: #61afef;">architecture</span>: {
-    principle: <span style="color: #98c379;">"Clarity over cleverness. Debuggable at 3 AM."</span>,
-    approach: <span style="color: #98c379;">"Design for failure. Every service will crash."</span>
-  },
-  <span style="color: #61afef;">aiIntegration</span>: {
-    belief: <span style="color: #98c379;">"AI is a systems design problem, not an API call."</span>,
-    goal: <span style="color: #98c379;">"Make AI feel native to the user experience."</span>
-  },
-  <span style="color: #61afef;">performance</span>: {
-    targets: { api: <span style="color: #d19a66;">"<100ms"</span>, ui: <span style="color: #d19a66;">"60fps"</span> },
-    rule: <span style="color: #98c379;">"Measure everything. Profile before optimizing."</span>
-  }
+```ts
+const ravi = {
+  based_in   : "Batticaloa, Sri Lanka 🇱🇰",
+  studying   : "BSc (Hons) Software Engineering — Cardiff Metropolitan University",
+  working_at : "Aro Tech (Private) Limited  ·  Junior Full-Stack Developer (Freelance)",
+  building   : ["AI-integrated tools", "full-stack web apps", "offline-first mobile"],
+  philosophy : "Build reliable systems. Stay honest about what you know.",
 };
-  </pre>
-</div>
+```
+
+---
+
+<br/>
+
+## Experience
+
+**Junior Full-Stack Software Developer (Freelance)** &nbsp;·&nbsp; *Aro Tech (Private) Limited* &nbsp;·&nbsp; `Feb 2026 – Present`
+
+Working inside an ongoing product to stabilize and extend a mobile and web application. Day-to-day work includes refactoring the mobile UI, resolving broken user flows, wiring frontend components to backend endpoints, and supporting staged releases through API debugging and integration testing.
+
+<br/>
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,cs,dotnet,nodejs,nextjs,react,swift,java,python&theme=dark&perline=9" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase,supabase,azure&theme=dark&perline=9" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tailwind,threejs,figma,docker,git,xcode,vscode&theme=dark&perline=9" />
+
+<br/><br/>
+
+`Gemini API` &nbsp;·&nbsp; `OpenAI API` &nbsp;·&nbsp; `MCP Servers` &nbsp;·&nbsp; `Prisma ORM` &nbsp;·&nbsp; `Stripe` &nbsp;·&nbsp; `RAG Pipelines` &nbsp;·&nbsp; `Cursor / Windsurf / Copilot`
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- EDUCATION -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
-<h2 align="center">
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35px" height="35px"> 
-EDUCATION & CREDENTIALS 
-</h2>
-
-<div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Status |
-|:----------|:---------------|:----------|
-| **BSc (Hons) Software Engineering** | Cardiff Metropolitan University, UK | 🔄 Expected 2027 |
-| **Higher Diploma in Computing & Software Engineering** | Cardiff Metropolitan University, UK | ✅ Completed 2025 |
-| **Diploma in Information & Communication Technology** | ICBT Campus, Sri Lanka | ✅ Completed 2023 |
-
-</div>
+## Projects
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT & CLOSING -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+**[01] &nbsp; Physiobrain AI** &mdash; *AI Physiotherapy Platform*
 
-<h2 align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px" height="35px"> 
-OPEN COMMUNICATION CHANNELS 
-</h2>
+`TypeScript` `AI Integration`
+
+AI-powered physiotherapy tool — the most recent build in the stack. *(In active development.)*
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/physiobrain-ai)
+
+<br/>
+
+**[02] &nbsp; CSE MCP Intelligence** &mdash; *Institutional Market Intelligence Server*
+
+`TypeScript` `MCP` `AI` `MIT`
+
+Institutional-grade MCP server for the Colombo Stock Exchange. Surfaces real-time market data, order flow pressure analysis, and AI-powered forensic fundamental screening — built to be consumed directly by LLM agents and agentic workflows. One of the few production-ready MCP implementations tied to a real exchange.
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/cse-mcp-intelligence)
+
+<br/>
+
+**[03] &nbsp; PCA CinemaX** &mdash; *Cinema Booking Platform*
+
+`Next.js` `TypeScript` `PostgreSQL` `Stripe`
+
+Full-cycle ticketing platform covering seat selection, session management, and payment. Designed endpoints capable of handling concurrent reservations, integrated Stripe with full validation and error handling for transaction reliability.
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/PCA_CinemaX)
+
+<br/>
+
+**[04] &nbsp; Mamas Brownies** &mdash; *Luxury Brand Editorial Experience*
+
+`Next.js App Router` `TypeScript`
+
+High-fidelity, sensory-driven landing page for a luxury brownie brand. Production-ready editorial frontend with heavy focus on visual craft, motion, and brand storytelling through code.
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/Mamas-Brownies-Landing-Page)
+
+<br/>
+
+**[05] &nbsp; Synapse Med** &mdash; *AI Learning & Knowledge Tool*
+
+`MERN` `TypeScript` `Gemini API` `MIT`
+
+Converts lecture materials into structured study resources — AI-generated summaries, flashcards, and quizzes. Integrated Gemini API to process and transform uploaded content; improved file processing pipeline to handle large documents reliably.
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/synapse-med)
+
+<br/>
+
+**[06] &nbsp; OceanView Resort** &mdash; *Enterprise Resort Management System*
+
+`Java` `JSP` `MySQL`
+
+Enterprise-grade web application managing the full operations of a luxury resort — bookings, guest records, staff, and inventory — built on a Java/JSP stack with a relational MySQL backend.
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/OceanViewResortManagementEnterpriseSystem)
+
+<br/>
+
+**[07] &nbsp; Clinical Simulator** &mdash; *Offline-First iOS Training App*
+
+`SwiftUI` `SwiftData` `Firebase`
+
+iOS medical training app for clinics with unreliable connectivity. SwiftData manages all local state; a background queue flushes to Firebase when a network resumes. Multilingual — English, Sinhala, Tamil — with strict MVVM separation.
+
+> `100% offline-capable` &nbsp; `35% engagement lift` &nbsp; `EN / SI / TA`
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/ClinicalSimulator)
+
+<br/>
+
+**[08] &nbsp; Codebase Prompt Packer** &mdash; *Developer CLI Tool*
+
+`TypeScript` `Node.js`
+
+Traverses monorepos recursively, respects `.gitignore`, and emits XML/JSON optimised for LLM token budgets. TypeScript strict mode prevents IO race conditions.
+
+[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/codebase-prompt-packer)
+
+<br/>
+
+---
+
+## Education
+
+| | |
+|:--|:--|
+| **BSc (Hons) Software Engineering** | Cardiff Metropolitan University, UK &nbsp;·&nbsp; *Expected 2027* |
+| **Higher Diploma in Computing & Software Engineering** | Cardiff Metropolitan University, UK &nbsp;·&nbsp; *2025* |
+| **Diploma in ICT** | ICBT Campus, Sri Lanka &nbsp;·&nbsp; *2023* |
+
+<br/>
+
+---
 
 <div align="center">
-<table align="center" style="border: none;">
-<tr>
-<td align="center" width="25%" style="border: none;">
-<img src="https://img.icons8.com/fluency/64/000000/gmail.png"/><br/>
-<b>Email</b><br/>
+<sub>
 <a href="mailto:hareeshkarravi@gmail.com">hareeshkarravi@gmail.com</a>
-</td>
-<td align="center" width="25%" style="border: none;">
-<img src="https://img.icons8.com/fluency/64/000000/phone.png"/><br/>
-<b>Phone</b><br/>
+&nbsp;·&nbsp;
 <a href="tel:+94771737524">+94 77 173 7524</a>
-</td>
-<td align="center" width="25%" style="border: none;">
-<img src="https://img.icons8.com/fluency/64/000000/linkedin.png"/><br/>
-<b>LinkedIn</b><br/>
-<a href="https://linkedin.com/in/hareeshkar">Connect</a>
-</td>
-<td align="center" width="25%" style="border: none;">
-<img src="https://img.icons8.com/fluency/64/000000/portfolio.png"/><br/>
-<b>Portfolio</b><br/>
-<a href="https://hareeshkar.github.io/portfolio/">View Site</a>
-</td>
-</tr>
-</table>
+&nbsp;·&nbsp;
+Batticaloa, Sri Lanka
+</sub>
 </div>
 
 <br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,4,6&section=footer&text=SYSTEM%20STANDBY%20•%20END%20TRANSMISSION&fontSize=25&fontColor=00f2ff&animation=twinkling" width="100%"/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400px">
-<br/>
-<sub>Built with ⚡ by Ravi Hareeshkar | Systems Architecture First | 2025</sub>
-</div>
