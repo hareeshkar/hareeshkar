@@ -11,8 +11,8 @@
 <h1>Hareeshkar Ravi</h1>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1100&color=e8a045&center=true&vCenter=true&repeat=true&width=520&height=34&lines=Full-Stack+%26+Mobile+Developer;Next.js+%C2%B7+.NET+Core+%C2%B7+SwiftUI+%C2%B7+AI+Integration;Building+reliable+systems+%E2%80%94+one+commit+at+a+time" alt="Roles" />
 <br/><br/>
-<a href="https://hareeshkar.github.io/Hareeshkar_Portfolio/"><img src="https://img.shields.io/badge/portfolio-hareeshkar.github.io-111?style=flat-square&logo=vercel&logoColor=e8a045&labelColor=1a1a1a"/></a>&nbsp;
-<a href="https://linkedin.com/in/hareeshkar"><img src="https://img.shields.io/badge/linkedin-hareeshkar-111?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=1a1a1a"/></a>&nbsp;
+<a href="https://hareeshkar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-hareeshkar.github.io-111?style=flat-square&logo=vercel&logoColor=e8a045&labelColor=1a1a1a"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/hareeshkar-ravi/"><img src="https://img.shields.io/badge/linkedin-hareeshkar-111?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=1a1a1a"/></a>&nbsp;
 <a href="mailto:hareeshkarravi@gmail.com"><img src="https://img.shields.io/badge/email-hareeshkarravi@gmail.com-111?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=1a1a1a"/></a>&nbsp;
 <a href="https://github.com/hareeshkar"><img src="https://komarev.com/ghpvc/?username=hareeshkar&style=flat-square&color=e8a045&label=views"/></a>
 </td>
