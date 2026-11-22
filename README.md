@@ -1,150 +1,91 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Hareeshkar Ravi. Software engineer for web, mobile and AI. Full-stack developer at Aro Tech. BSc (Hons) Software Engineering." src="assets/header-light.svg" width="100%">
+</picture>
 
-# Hareeshkar Ravi
+<br/>
+<br/>
 
-Full-stack & mobile developer · Batticaloa, Sri Lanka
+By day I work across mobile, web and backend on a production system at Aro Tech. Outside work I build products end to end, from the database to the UI. A few of them are below.
 
-<sub>BSc (Hons) Software Engineering, Cardiff Metropolitan University</sub>
+[Portfolio](https://hareeshkar-portfolio-v2.vercel.app) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/hareeshkar-ravi/) &nbsp;&nbsp; [Email](mailto:hareeshkarravi@gmail.com)
 
 <br/>
 
-[Portfolio](https://hareeshkar-portfolio-v2.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/hareeshkar-ravi/) &nbsp;·&nbsp; [Email](mailto:hareeshkarravi@gmail.com)
+## Booking and commerce
 
-</div>
+### [PCA CinemaX](https://github.com/hareeshkar/PCA_CinemaX)
 
-<br/>
+Cinema booking platform with Stripe payments. Confirmed seats are held for 10 minutes, shown as taken to other users in real time, and released if payment doesn't arrive. Database constraints prevent double-booking under concurrent requests. The admin side covers a seat-map editor, scheduling, seat blocking with refunds, and finance reports.
 
-I build web, mobile and backend systems, and lately a lot of AI: products that put language models to work in healthcare and commerce, and tooling that makes AI coding agents cheaper and more reliable to run.
+<sub>Next.js, Prisma, PostgreSQL, Supabase, Stripe</sub>
 
-By day I'm a full-stack developer at **Aro Tech (Pvt) Ltd**, shipping features and fixes on a live production system.
+### [Wasi](https://github.com/hareeshkar/wasi-kapruka)
 
-<br/>
+AI shopping assistant for Kapruka, built on its live MCP API. Works in English, Tamil and Sinhala, by text, image or voice. It searches 120,000+ products, checks delivery to any city, locks prices and completes checkout inside the chat, using 22 tools and a six-stage conversation flow. [Try the live demo](https://wasi-etpz.onrender.com).
 
-## Experience
-
-**Full-Stack Software Developer (Freelance)** · Aro Tech (Private) Limited · *Feb 2026 – present*
-
-Mobile, web and backend work on a production system: building features, integrating front ends with APIs, debugging and testing endpoints, and supporting releases.
+<sub>TypeScript, Gemini, Gemini Live, MCP, Supabase</sub>
 
 <br/>
 
-## Selected work
+## Stock market analytics
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [Project Argus](https://github.com/hareeshkar/project-argus-final)
 
-**[Wasi](https://github.com/hareeshkar/wasi-kapruka)** · [demo](https://wasi-etpz.onrender.com)
+Research dashboard for Colombo Stock Exchange stocks. It pulls live prices, order books and trade ticks, runs ARIMA forecasting, EWMA value-at-risk, drawdown, anomaly and regime models, combines them into one signal, and explains the result in plain language.
 
-Trilingual shopping concierge built on Kapruka's live MCP API. A six-state conversation engine drives 22 tools: search across 120,000+ products, delivery checks, price lock and checkout inside the chat, plus hands-free voice through the Gemini Live API.
+<sub>Python, FastAPI, React, Redis, Celery</sub>
 
-<sub>TypeScript · Gemini · MCP · Supabase</sub>
+### [CSE MCP Intelligence](https://github.com/hareeshkar/cse-mcp-intelligence)
 
-</td>
-<td width="50%" valign="top">
+The same market data, made available to AI agents. An MCP server that lets Claude and other models look up live prices, sector performance, order-flow pressure and company fundamentals on their own.
 
-**[Clinical Simulator](https://github.com/hareeshkar/ClinicalSimulator)**
-
-iOS app for medical education. Learners take AI-driven patient cases in English, Tamil or Sinhala, with vital signs that drift in real time and an AI-scored debrief at the end.
-
-<sub>SwiftUI · SwiftData · Gemini</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Synapse Med](https://github.com/hareeshkar/synapse-med)** · [demo](https://hareeshkar.github.io/synapse-med/)
-
-Turns lecture PDFs, images and audio into interactive knowledge graphs and cited study guides, grounded with Google Search.
-
-<sub>React · TypeScript · Gemini · D3</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[PhysioBrain AI](https://github.com/hareeshkar/physiobrain-ai)** · [demo](https://physiobrain-ai.vercel.app)
-
-Physiotherapy education platform where specialised agents generate cases, play the patient and give feedback. In active development.
-
-<sub>TypeScript · AI agents</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[opencode-advisor](https://github.com/hareeshkar/opencode-advisor)**
-
-OpenCode plugin: any executor model can consult any advisor model mid-task, under strict token budgets, without polluting the transcript.
-
-<sub>OpenCode · LLM routing</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[opencode-subagent-delegate](https://github.com/hareeshkar/opencode-subagent-delegate)**
-
-OpenCode plugin that runs a subagent on any connected model, chosen per call, as a clickable card in the current chat.
-
-<sub>TypeScript · OpenCode</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[cse-mcp-intelligence](https://github.com/hareeshkar/cse-mcp-intelligence)**
-
-MCP server for the Colombo Stock Exchange that gives LLM agents live market data, order-flow analysis and fundamental screening.
-
-<sub>TypeScript · MCP</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[sri-lanka-postal-locations](https://github.com/hareeshkar/sri-lanka-postal-locations)**
-
-Sri Lanka's full province → district → postal town hierarchy with coordinates and postcodes, plus helpers for pickers and reverse geocoding. Zero dependencies.
-
-<sub>TypeScript · npm</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[GentleCharge](https://github.com/hareeshkar/GentleCharge)**
-
-Open-source macOS CLI that manages MacBook battery charging by talking to the SMC directly. Early prototype, tested on Apple Silicon.
-
-<sub>Swift · macOS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[TermDesk](https://github.com/hareeshkar/termdesk-cis6005)**
-
-A LightGBM model for bank term-deposit campaigns, wrapped in a web app: score a lead, get a call-or-skip decision with counterfactual advice, or rank a whole CSV.
-
-<sub>Python · LightGBM</sub>
-
-</td>
-</tr>
-</table>
+<sub>TypeScript, MCP</sub>
 
 <br/>
 
-## Toolkit
+## Medical education
 
-**Languages** &nbsp; TypeScript · C# · Swift · Python · Java<br/>
-**Web** &nbsp; Next.js · React · Node.js · Tailwind CSS<br/>
-**Backend** &nbsp; .NET · FastAPI · PostgreSQL · Supabase · Prisma<br/>
-**Mobile** &nbsp; SwiftUI · SwiftData · Firebase<br/>
-**AI** &nbsp; Gemini · OpenAI · MCP · agent tooling
+### [Clinical Simulator](https://github.com/hareeshkar/ClinicalSimulator)
+
+An iOS app where medical students interview and treat AI patients. Vital signs drift as the case unfolds, every case runs in English, Tamil or Sinhala, and each session ends with a scored debrief matched to the learner's level.
+
+<sub>SwiftUI, SwiftData, Gemini</sub>
+
+### [Synapse Med](https://github.com/hareeshkar/synapse-med)
+
+Upload a lecture as a PDF, image or recording and get back an interactive knowledge graph and a study guide with sources checked against Google Search. [Try the live demo](https://hareeshkar.github.io/synapse-med/).
+
+<sub>React, TypeScript, Gemini, D3</sub>
+
+### [PhysioBrain AI](https://github.com/hareeshkar/physiobrain-ai)
+
+Practice platform for physiotherapy students. Separate AI agents generate the case, play the patient and review the student's reasoning. Still in active development. [Try the live demo](https://physiobrain-ai.vercel.app).
+
+<sub>TypeScript, AI agents</sub>
 
 <br/>
 
-<div align="center">
-<sub><a href="https://github.com/hareeshkar?tab=repositories">All repositories →</a></sub>
-</div>
+## Open source
+
+**[opencode-advisor](https://github.com/hareeshkar/opencode-advisor)** lets the model doing your work in OpenCode stop and ask a stronger model for a second opinion, within a token budget you set.
+
+**[opencode-subagent-delegate](https://github.com/hareeshkar/opencode-subagent-delegate)** runs an OpenCode subagent on any model you've connected, chosen per task: draft with a cheap model, review with a frontier one.
+
+**[sri-lanka-postal-locations](https://github.com/hareeshkar/sri-lanka-postal-locations)** is every Sri Lankan province, district and postal town in one linked dataset, with coordinates and postcodes, ready for address forms. No dependencies.
+
+<br/>
+
+## What I work with
+
+| | |
+|:--|:--|
+| Languages | TypeScript, C#, Swift, Python, Java |
+| Web | Next.js, React, Node.js, Tailwind CSS |
+| Backend | .NET, FastAPI, PostgreSQL, Prisma, Supabase, Redis |
+| Mobile | SwiftUI, SwiftData, Firebase |
+| AI | Gemini, OpenAI, MCP, agent tooling |
+
+<br/>
+
+<sub>More work in [all repositories](https://github.com/hareeshkar?tab=repositories).</sub>
