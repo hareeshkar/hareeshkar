@@ -1,187 +1,150 @@
 <div align="center">
 
+# Hareeshkar Ravi
+
+Full-stack & mobile developer · Batticaloa, Sri Lanka
+
+<sub>BSc (Hons) Software Engineering, Cardiff Metropolitan University</sub>
+
 <br/>
 
-<table width="100%" style="border:none;" cellspacing="0" cellpadding="0">
-<tr>
-<td width="28%" align="center" valign="middle" style="border:none;">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px" style="border-radius:12px;" />
-</td>
-<td width="72%" align="center" valign="middle" style="border:none;">
-<h1>Hareeshkar Ravi</h1>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1100&color=e8a045&center=true&vCenter=true&repeat=true&width=520&height=34&lines=Full-Stack+%26+Mobile+Developer;Next.js+%C2%B7+.NET+Core+%C2%B7+SwiftUI+%C2%B7+AI+Integration;Building+reliable+systems+%E2%80%94+one+commit+at+a+time" alt="Roles" />
-<br/><br/>
-<a href="https://hareeshkar.github.io/Hareeshkar_Portfolio/"><img src="https://img.shields.io/badge/portfolio-hareeshkar.github.io-111?style=flat-square&logo=vercel&logoColor=e8a045&labelColor=1a1a1a"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/hareeshkar-ravi/"><img src="https://img.shields.io/badge/linkedin-hareeshkar-111?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=1a1a1a"/></a>&nbsp;
-<a href="mailto:hareeshkarravi@gmail.com"><img src="https://img.shields.io/badge/email-hareeshkarravi@gmail.com-111?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=1a1a1a"/></a>&nbsp;
-<a href="https://github.com/hareeshkar"><img src="https://komarev.com/ghpvc/?username=hareeshkar&style=flat-square&color=e8a045&label=views"/></a>
-</td>
-</tr>
-</table>
+[Portfolio](https://hareeshkar-portfolio-v2.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/hareeshkar-ravi/) &nbsp;·&nbsp; [Email](mailto:hareeshkarravi@gmail.com)
 
 </div>
 
 <br/>
 
----
+I build web, mobile and backend systems, and lately a lot of AI: products that put language models to work in healthcare and commerce, and tooling that makes AI coding agents cheaper and more reliable to run.
 
-```ts
-const hareeshkar = {
-  location   : "Batticaloa, Sri Lanka 🇱🇰",
-  education  : "BSc (Hons) Software Engineering — Cardiff Metropolitan University",
-  role       : "Junior Full‑Stack Developer (Freelance) · Aro Tech (Pvt) Ltd",
-  focus      : ["mobile & web apps", "APIs & backend systems", "full‑stack development"],
-  building   : ["AI‑assisted tools", "scalable web applications", "offline‑first mobile apps"],
-  approach   : "Design scalable systems, write clear code, and stay honest about what’s still being learned.",
-};
-
-```
-
----
+By day I'm a full-stack developer at **Aro Tech (Pvt) Ltd**, shipping features and fixes on a live production system.
 
 <br/>
 
 ## Experience
 
-**Junior Full-Stack Software Developer (Freelance)** &nbsp;·&nbsp; *Aro Tech (Private) Limited* &nbsp;·&nbsp; `Feb 2026 – Present`
+**Full-Stack Software Developer (Freelance)** · Aro Tech (Private) Limited · *Feb 2026 – present*
 
-Working in a live production environment across mobile, web, and backend systems. I contribute to mobile and web features, integrate frontend components with APIs, debug and test backend endpoints, and support production releases. My work spans UI updates, API integration, and backend improvements, with a growing focus on full‑stack development and system reliability.
+Mobile, web and backend work on a production system: building features, integrating front ends with APIs, debugging and testing endpoints, and supporting releases.
+
 <br/>
 
----
+## Selected work
 
-## Stack
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Wasi](https://github.com/hareeshkar/wasi-kapruka)** · [demo](https://wasi-etpz.onrender.com)
+
+Trilingual shopping concierge built on Kapruka's live MCP API. A six-state conversation engine drives 22 tools: search across 120,000+ products, delivery checks, price lock and checkout inside the chat, plus hands-free voice through the Gemini Live API.
+
+<sub>TypeScript · Gemini · MCP · Supabase</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Clinical Simulator](https://github.com/hareeshkar/ClinicalSimulator)**
+
+iOS app for medical education. Learners take AI-driven patient cases in English, Tamil or Sinhala, with vital signs that drift in real time and an AI-scored debrief at the end.
+
+<sub>SwiftUI · SwiftData · Gemini</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Synapse Med](https://github.com/hareeshkar/synapse-med)** · [demo](https://hareeshkar.github.io/synapse-med/)
+
+Turns lecture PDFs, images and audio into interactive knowledge graphs and cited study guides, grounded with Google Search.
+
+<sub>React · TypeScript · Gemini · D3</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[PhysioBrain AI](https://github.com/hareeshkar/physiobrain-ai)** · [demo](https://physiobrain-ai.vercel.app)
+
+Physiotherapy education platform where specialised agents generate cases, play the patient and give feedback. In active development.
+
+<sub>TypeScript · AI agents</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[opencode-advisor](https://github.com/hareeshkar/opencode-advisor)**
+
+OpenCode plugin: any executor model can consult any advisor model mid-task, under strict token budgets, without polluting the transcript.
+
+<sub>OpenCode · LLM routing</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[opencode-subagent-delegate](https://github.com/hareeshkar/opencode-subagent-delegate)**
+
+OpenCode plugin that runs a subagent on any connected model, chosen per call, as a clickable card in the current chat.
+
+<sub>TypeScript · OpenCode</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[cse-mcp-intelligence](https://github.com/hareeshkar/cse-mcp-intelligence)**
+
+MCP server for the Colombo Stock Exchange that gives LLM agents live market data, order-flow analysis and fundamental screening.
+
+<sub>TypeScript · MCP</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[sri-lanka-postal-locations](https://github.com/hareeshkar/sri-lanka-postal-locations)**
+
+Sri Lanka's full province → district → postal town hierarchy with coordinates and postcodes, plus helpers for pickers and reverse geocoding. Zero dependencies.
+
+<sub>TypeScript · npm</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[GentleCharge](https://github.com/hareeshkar/GentleCharge)**
+
+Open-source macOS CLI that manages MacBook battery charging by talking to the SMC directly. Early prototype, tested on Apple Silicon.
+
+<sub>Swift · macOS</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[TermDesk](https://github.com/hareeshkar/termdesk-cis6005)**
+
+A LightGBM model for bank term-deposit campaigns, wrapped in a web app: score a lead, get a call-or-skip decision with counterfactual advice, or rank a whole CSV.
+
+<sub>Python · LightGBM</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Toolkit
+
+**Languages** &nbsp; TypeScript · C# · Swift · Python · Java<br/>
+**Web** &nbsp; Next.js · React · Node.js · Tailwind CSS<br/>
+**Backend** &nbsp; .NET · FastAPI · PostgreSQL · Supabase · Prisma<br/>
+**Mobile** &nbsp; SwiftUI · SwiftData · Firebase<br/>
+**AI** &nbsp; Gemini · OpenAI · MCP · agent tooling
+
+<br/>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,cs,dotnet,nodejs,nextjs,react,swift,java,python&theme=dark&perline=9" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase,supabase,azure&theme=dark&perline=9" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tailwind,threejs,figma,docker,git,xcode,vscode&theme=dark&perline=9" />
-
-<br/><br/>
-
-`Gemini API` &nbsp;·&nbsp; `OpenAI API` &nbsp;·&nbsp; `MCP Servers` &nbsp;·&nbsp; `Prisma ORM` &nbsp;·&nbsp; `Stripe` &nbsp;·&nbsp; `RAG Pipelines` &nbsp;·&nbsp; `Cursor / Windsurf / Copilot`
-
+<sub><a href="https://github.com/hareeshkar?tab=repositories">All repositories →</a></sub>
 </div>
-
-<br/>
-
----
-
-## Projects
-
-<br/>
-
-**[01] &nbsp; Physiobrain AI** &mdash; *AI Physiotherapy Platform*
-
-`TypeScript` `AI Integration`
-
-AI-powered physiotherapy tool — the most recent build in the stack. *(In active development.)*
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/physiobrain-ai)
-
-<br/>
-
-**[02] &nbsp; CSE MCP Intelligence** &mdash; *Institutional Market Intelligence Server*
-
-`TypeScript` `MCP` `AI` `MIT`
-
-Institutional-grade MCP server for the Colombo Stock Exchange. Surfaces real-time market data, order flow pressure analysis, and AI-powered forensic fundamental screening — built to be consumed directly by LLM agents and agentic workflows. One of the few production-ready MCP implementations tied to a real exchange.
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/cse-mcp-intelligence)
-
-<br/>
-
-**[03] &nbsp; PCA CinemaX** &mdash; *Cinema Booking Platform*
-
-`Next.js` `TypeScript` `PostgreSQL` `Stripe`
-
-Full-cycle ticketing platform covering seat selection, session management, and payment. Designed endpoints capable of handling concurrent reservations, integrated Stripe with full validation and error handling for transaction reliability.
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/PCA_CinemaX)
-
-<br/>
-
-**[04] &nbsp; Mamas Brownies** &mdash; *Luxury Brand Editorial Experience*
-
-`Next.js App Router` `TypeScript`
-
-High-fidelity, sensory-driven landing page for a luxury brownie brand. Production-ready editorial frontend with heavy focus on visual craft, motion, and brand storytelling through code.
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/Mamas-Brownies-Landing-Page)
-
-<br/>
-
-**[05] &nbsp; Synapse Med** &mdash; *AI Learning & Knowledge Tool*
-
-`MERN` `TypeScript` `Gemini API` `MIT`
-
-Converts lecture materials into structured study resources — AI-generated summaries, flashcards, and quizzes. Integrated Gemini API to process and transform uploaded content; improved file processing pipeline to handle large documents reliably.
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/synapse-med)
-
-<br/>
-
-**[06] &nbsp; OceanView Resort** &mdash; *Enterprise Resort Management System*
-
-`Java` `JSP` `MySQL`
-
-Enterprise-grade web application managing the full operations of a luxury resort — bookings, guest records, staff, and inventory — built on a Java/JSP stack with a relational MySQL backend.
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/OceanViewResortManagementEnterpriseSystem)
-
-<br/>
-
-**[07] &nbsp; Clinical Simulator** &mdash; *Offline-First iOS Training App*
-
-`SwiftUI` `SwiftData` `Firebase`
-
-iOS medical training app for clinics with unreliable connectivity. SwiftData manages all local state; a background queue flushes to Firebase when a network resumes. Multilingual — English, Sinhala, Tamil — with strict MVVM separation.
-
-> `100% offline-capable` &nbsp; `35% engagement lift` &nbsp; `EN / SI / TA`
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/ClinicalSimulator)
-
-<br/>
-
-**[08] &nbsp; Codebase Prompt Packer** &mdash; *Developer CLI Tool*
-
-`TypeScript` `Node.js`
-
-Traverses monorepos recursively, respects `.gitignore`, and emits XML/JSON optimised for LLM token budgets. TypeScript strict mode prevents IO race conditions.
-
-[![Source](https://img.shields.io/badge/source-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/hareeshkar/codebase-prompt-packer)
-
-<br/>
-
----
-
-## Education
-
-| | |
-|:--|:--|
-| **BSc (Hons) Software Engineering** | Cardiff Metropolitan University, UK &nbsp;·&nbsp; *Expected 2027* |
-| **Higher Diploma in Computing & Software Engineering** | Cardiff Metropolitan University, UK &nbsp;·&nbsp; *2025* |
-| **Diploma in ICT** | ICBT Campus, Sri Lanka &nbsp;·&nbsp; *2023* |
-
-<br/>
-
----
-
-<div align="center">
-<sub>
-<a href="mailto:hareeshkarravi@gmail.com">hareeshkarravi@gmail.com</a>
-&nbsp;·&nbsp;
-<a href="tel:+94771737524">+94 77 173 7524</a>
-&nbsp;·&nbsp;
-Batticaloa, Sri Lanka
-</sub>
-</div>
-
-<br/>
