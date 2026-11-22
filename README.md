@@ -3,86 +3,55 @@
   <img alt="Hareeshkar Ravi. Software engineer for web, mobile and AI. Full-stack developer at Aro Tech. BSc (Hons) Software Engineering." src="assets/header-light.svg" width="100%">
 </picture>
 
-<br/>
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img alt="By day I work across mobile, web and backend on a production system at Aro Tech. Outside work I build products end to end, from the database to the UI." src="assets/intro-light.svg" width="100%"></picture>
 
-By day I work across mobile, web and backend on a production system at Aro Tech. Outside work I build products end to end, from the database to the UI. A few of them are below.
+<a href="https://hareeshkar-portfolio-v2.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-portfolio-dark.svg"><img alt="Portfolio" src="assets/nav-portfolio-light.svg" width="150"></picture></a>&nbsp;<a href="https://www.linkedin.com/in/hareeshkar-ravi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-linkedin-dark.svg"><img alt="LinkedIn" src="assets/nav-linkedin-light.svg" width="150"></picture></a>&nbsp;<a href="mailto:hareeshkarravi@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-email-dark.svg"><img alt="Email" src="assets/nav-email-light.svg" width="150"></picture></a>
 
-[Portfolio](https://hareeshkar-portfolio-v2.vercel.app) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/hareeshkar-ravi/) &nbsp;&nbsp; [Email](mailto:hareeshkarravi@gmail.com)
+<br/><br/>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg"><img alt="Selected work. Products I designed and built on my own time." src="assets/h-work-light.svg" width="100%"></picture>
 
-## Booking and commerce
-
-### [PCA CinemaX](https://github.com/hareeshkar/PCA_CinemaX)
-
-Cinema booking platform with Stripe payments. Confirmed seats are held for 10 minutes, shown as taken to other users in real time, and released if payment doesn't arrive. Database constraints prevent double-booking under concurrent requests. The admin side covers a seat-map editor, scheduling, seat blocking with refunds, and finance reports.
-
-<sub>Next.js, Prisma, PostgreSQL, Supabase, Stripe</sub>
-
-### [Wasi](https://github.com/hareeshkar/wasi-kapruka)
-
-AI shopping assistant for Kapruka, built on its live MCP API. Works in English, Tamil and Sinhala, by text, image or voice. It searches 120,000+ products, checks delivery to any city, locks prices and completes checkout inside the chat, using 22 tools and a six-stage conversation flow. [Try the live demo](https://wasi-etpz.onrender.com).
-
-<sub>TypeScript, Gemini, Gemini Live, MCP, Supabase</sub>
+<a href="https://github.com/hareeshkar/PCA_CinemaX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-cinemax-dark.svg"><img alt="PCA CinemaX, cinema booking platform" src="assets/p-cinemax-light.svg" width="100%"></picture></a>
 
 <br/>
 
-## Stock market analytics
+<a href="https://github.com/hareeshkar/wasi-kapruka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-wasi-dark.svg"><img alt="Wasi, AI shopping assistant for Kapruka" src="assets/p-wasi-light.svg" width="100%"></picture></a>
 
-### [Project Argus](https://github.com/hareeshkar/project-argus-final)
-
-Research dashboard for Colombo Stock Exchange stocks. It pulls live prices, order books and trade ticks, runs ARIMA forecasting, EWMA value-at-risk, drawdown, anomaly and regime models, combines them into one signal, and explains the result in plain language.
-
-<sub>Python, FastAPI, React, Redis, Celery</sub>
-
-### [CSE MCP Intelligence](https://github.com/hareeshkar/cse-mcp-intelligence)
-
-The same market data, made available to AI agents. An MCP server that lets Claude and other models look up live prices, sector performance, order-flow pressure and company fundamentals on their own.
-
-<sub>TypeScript, MCP</sub>
+<a href="https://github.com/hareeshkar/wasi-kapruka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-code-dark.svg"><img alt="View code" src="assets/b-code-light.svg" width="120"></picture></a>&nbsp;<a href="https://wasi-etpz.onrender.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-demo-dark.svg"><img alt="Live demo" src="assets/b-demo-light.svg" width="120"></picture></a>
 
 <br/>
 
-## Medical education
-
-### [Clinical Simulator](https://github.com/hareeshkar/ClinicalSimulator)
-
-An iOS app where medical students interview and treat AI patients. Vital signs drift as the case unfolds, every case runs in English, Tamil or Sinhala, and each session ends with a scored debrief matched to the learner's level.
-
-<sub>SwiftUI, SwiftData, Gemini</sub>
-
-### [Synapse Med](https://github.com/hareeshkar/synapse-med)
-
-Upload a lecture as a PDF, image or recording and get back an interactive knowledge graph and a study guide with sources checked against Google Search. [Try the live demo](https://hareeshkar.github.io/synapse-med/).
-
-<sub>React, TypeScript, Gemini, D3</sub>
-
-### [PhysioBrain AI](https://github.com/hareeshkar/physiobrain-ai)
-
-Practice platform for physiotherapy students. Separate AI agents generate the case, play the patient and review the student's reasoning. Still in active development. [Try the live demo](https://physiobrain-ai.vercel.app).
-
-<sub>TypeScript, AI agents</sub>
+<a href="https://github.com/hareeshkar/project-argus-final"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-argus-dark.svg"><img alt="Project Argus, stock market research dashboard" src="assets/p-argus-light.svg" width="100%"></picture></a>
 
 <br/>
 
-## Open source
+<a href="https://github.com/hareeshkar/cse-mcp-intelligence"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-csemcp-dark.svg"><img alt="CSE MCP Intelligence, MCP server for market data" src="assets/p-csemcp-light.svg" width="49.5%"></picture></a><a href="https://github.com/hareeshkar/ClinicalSimulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-clinical-dark.svg"><img alt="Clinical Simulator, iOS app for medical training" src="assets/p-clinical-light.svg" width="49.5%"></picture></a>
 
-**[opencode-advisor](https://github.com/hareeshkar/opencode-advisor)** lets the model doing your work in OpenCode stop and ask a stronger model for a second opinion, within a token budget you set.
+<a href="https://github.com/hareeshkar/synapse-med"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-synapse-dark.svg"><img alt="Synapse Med, AI study tool" src="assets/p-synapse-light.svg" width="49.5%"></picture></a><a href="https://github.com/hareeshkar/physiobrain-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-physio-dark.svg"><img alt="PhysioBrain AI, physiotherapy education" src="assets/p-physio-light.svg" width="49.5%"></picture></a>
 
-**[opencode-subagent-delegate](https://github.com/hareeshkar/opencode-subagent-delegate)** runs an OpenCode subagent on any model you've connected, chosen per task: draft with a cheap model, review with a frontier one.
+<sub><a href="https://hareeshkar.github.io/synapse-med/">Synapse Med live demo</a> &nbsp;&nbsp; <a href="https://physiobrain-ai.vercel.app">PhysioBrain AI live demo</a></sub>
 
-**[sri-lanka-postal-locations](https://github.com/hareeshkar/sri-lanka-postal-locations)** is every Sri Lankan province, district and postal town in one linked dataset, with coordinates and postcodes, ready for address forms. No dependencies.
+<br/><br/>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-oss-dark.svg"><img alt="Open source. Tools I maintain for AI coding agents and Sri Lankan developers." src="assets/h-oss-light.svg" width="100%"></picture>
 
-## What I work with
+<a href="https://github.com/hareeshkar/opencode-advisor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/o-advisor-dark.svg"><img alt="opencode-advisor" src="assets/o-advisor-light.svg" width="100%"></picture></a>
+
+<a href="https://github.com/hareeshkar/opencode-subagent-delegate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/o-delegate-dark.svg"><img alt="opencode-subagent-delegate" src="assets/o-delegate-light.svg" width="100%"></picture></a>
+
+<a href="https://github.com/hareeshkar/sri-lanka-postal-locations"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/o-postal-dark.svg"><img alt="sri-lanka-postal-locations" src="assets/o-postal-light.svg" width="100%"></picture></a>
+
+<br/><br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><img alt="Stack. What I reach for most." src="assets/h-stack-light.svg" width="100%"></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img alt="Languages: TypeScript, C#, Swift, Python, Java. Web: Next.js, React, Node.js, Tailwind CSS. Backend: .NET, FastAPI, PostgreSQL, Prisma, Supabase, Redis. Mobile and cloud: SwiftUI, Firebase, Docker. AI: Gemini, OpenAI, Claude, MCP." src="assets/stack-light.svg" width="100%">
 </picture>
 
-<br/>
+<br/><br/>
 
-<sub>More work in [all repositories](https://github.com/hareeshkar?tab=repositories).</sub>
+<a href="mailto:hareeshkarravi@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img alt="Get in touch. Write to me about a role, a project or something you're building." src="assets/footer-light.svg" width="100%"></picture></a>
+
+<sub>More work in <a href="https://github.com/hareeshkar?tab=repositories">all repositories</a>.</sub>
