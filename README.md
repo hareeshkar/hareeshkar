@@ -1,11 +1,11 @@
-<picture>
+<a href="https://hareeshkar-portfolio-v2.vercel.app"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img alt="Hareeshkar Ravi. Software engineer for web, mobile and AI. Full-stack developer at Aro Tech. BSc (Hons) Software Engineering." src="assets/header-light.svg" width="100%">
-</picture>
+</picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img alt="By day I work across mobile, web and backend on a production system at Aro Tech. Outside work I build products end to end, from the database to the UI." src="assets/intro-light.svg" width="100%"></picture>
 
-<a href="https://hareeshkar-portfolio-v2.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-portfolio-dark.svg"><img alt="Portfolio" src="assets/nav-portfolio-light.svg" width="150"></picture></a>&nbsp;<a href="https://www.linkedin.com/in/hareeshkar-ravi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-linkedin-dark.svg"><img alt="LinkedIn" src="assets/nav-linkedin-light.svg" width="150"></picture></a>&nbsp;<a href="mailto:hareeshkarravi@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-email-dark.svg"><img alt="Email" src="assets/nav-email-light.svg" width="150"></picture></a>
+<p align="center"><a href="https://hareeshkar-portfolio-v2.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-portfolio-dark.svg"><img alt="Portfolio" src="assets/nav-portfolio-light.svg" width="150"></picture></a>&nbsp;<a href="https://www.linkedin.com/in/hareeshkar-ravi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-linkedin-dark.svg"><img alt="LinkedIn" src="assets/nav-linkedin-light.svg" width="150"></picture></a>&nbsp;<a href="mailto:hareeshkarravi@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-email-dark.svg"><img alt="Email" src="assets/nav-email-light.svg" width="150"></picture></a></p>
 
 <br/><br/>
 
