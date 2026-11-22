@@ -78,13 +78,10 @@ Practice platform for physiotherapy students. Separate AI agents generate the ca
 
 ## What I work with
 
-| | |
-|:--|:--|
-| Languages | TypeScript, C#, Swift, Python, Java |
-| Web | Next.js, React, Node.js, Tailwind CSS |
-| Backend | .NET, FastAPI, PostgreSQL, Prisma, Supabase, Redis |
-| Mobile | SwiftUI, SwiftData, Firebase |
-| AI | Gemini, OpenAI, MCP, agent tooling |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Languages: TypeScript, C#, Swift, Python, Java. Web: Next.js, React, Node.js, Tailwind CSS. Backend: .NET, FastAPI, PostgreSQL, Prisma, Supabase, Redis. Mobile and cloud: SwiftUI, Firebase, Docker. AI: Gemini, OpenAI, Claude, MCP." src="assets/stack-light.svg" width="100%">
+</picture>
 
 <br/>
 
