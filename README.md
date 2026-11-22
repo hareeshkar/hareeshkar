@@ -1,7 +1,4 @@
-<a href="https://hareeshkar-portfolio-v2.vercel.app"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Hareeshkar Ravi. Software engineer for web, mobile and AI. Full-stack developer at Aro Tech. BSc (Hons) Software Engineering." src="assets/header-light.svg" width="100%">
-</picture></a>
+<a href="https://hareeshkar-portfolio-v2.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Hareeshkar Ravi. Software engineer for web, mobile and AI. Full-stack developer at Aro Tech. BSc (Hons) Software Engineering." src="assets/header-light.svg" width="100%"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img alt="By day I work across mobile, web and backend on a production system at Aro Tech. Outside work I build products end to end, from the database to the UI." src="assets/intro-light.svg" width="100%"></picture>
 
